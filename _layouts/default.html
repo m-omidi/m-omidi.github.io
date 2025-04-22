@@ -10,6 +10,21 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
+    <div class="language-switcher" style="
+    position: absolute;  /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
+    top: 15px;
+    right: 15px;
+    font-size: 12px;
+    z-index: 9999;    /* بالاترین مقدار ممکن */
+    
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* سایه برای جداسازی از پس‌زمینه */
+">
+  <a href="/fa/">فارسی</a> | 
+  <a href="/de/">Deutsch</a> | 
+  <a href="/">English</a>
+</div>
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 

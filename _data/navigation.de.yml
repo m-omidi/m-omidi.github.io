@@ -1,0 +1,5 @@
+main:
+  - title: "Startseite"
+    url: "/de/"
+  - title: "Über uns"
+    url: "/de/about/"

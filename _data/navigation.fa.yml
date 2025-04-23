@@ -1,0 +1,5 @@
+main:
+  - title: "خانه"
+    url: "/fa/"
+  - title: "درباره"
+    url: "/fa/about/"

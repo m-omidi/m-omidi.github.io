@@ -129,19 +129,15 @@ analytics:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://m-omidi.ginhub.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
@@ -331,3 +327,19 @@ defaults:
       share: true
       related: true
 
+title: "Mehdi Omidi"
+description: "Online Resume"
+baseurl: ""
+url: "https://m-omidi.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+  - jekyll-include-cache
+languages: ["en", "fa", "de"]
+default_lang: "en"
+exclude_from_localizations: ["assets", "images", "favicon.ico"]
+
+permalink: /:lang/:categories/:title/

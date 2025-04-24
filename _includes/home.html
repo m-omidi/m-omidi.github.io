@@ -18,3 +18,13 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+
+<div class="wrapper">
+  <main class="main-content">
+    {{ content }} <!-- محتوای index.md اینجا نمایش داده می‌شود -->
+  </main>
+
+  <aside class="sidebar">
+    {% include resume-sidebar.html %} <!-- سایدبار رزومه -->
+  </aside>
+</div>

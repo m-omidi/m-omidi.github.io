@@ -559,3 +559,15 @@ body {
     }
   }
 }
+
+.page__header {
+  .page__subtitle {
+    font-size: 1.2em;
+    margin-bottom: 0;
+  }
+  .page__experience {
+    font-size: 0.9em;
+    color: $muted-text-color;
+    margin-top: 0.3em;
+  }
+}

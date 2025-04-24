@@ -29,7 +29,14 @@
     padding: 1rem;
   }
 
-
+.custom-subtitle {
+  line-height: 1.4;
+  
+  .experience-text {
+    font-size: 0.8em;
+    color: #666;
+  }
+}
 
   .sidebar {
     float: left; /* Changed to left for English resume */
@@ -232,3 +239,28 @@
     font-size: 0.95em;
     line-height: 1.6;
   }
+
+  .resume-section {
+    h2 {
+      margin-bottom: 0.1em !important;  /* فاصله زیر هدر اصلی */
+    }
+    
+    .experience-item {
+      margin-top: 0.1em !important;  /* فاصله بالای هر آیتم تجربه */
+      
+      h3 {
+        margin-top: 0.1em !important;  /* فاصله بالای عنوان شغل */
+      }
+    }
+  }
+
+  /* در فایل _sass/minimal-mistakes/_custom.scss یا اینلاین استایل */
+.masthead {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* اگر خط بالایی هم وجود دارد */
+.masthead__menu {
+  border-top: none !important;
+}

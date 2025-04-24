@@ -42,6 +42,20 @@ permalink: /
   </aside>
   
   <main class="content">
+<section class="resume-section">
+  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #2c3e50;">PROFESSIONAL SUMMARY</h2>
+  <p class="profile-text" style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    Innovative Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (Drawings, loop diagrams, I/O list). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
+  </p>
+</section>
     <!-- Work Experience Section -->
     <section class="resume-section">
       <h2>WORK EXPERIENCE</h2>
@@ -76,15 +90,15 @@ permalink: /
       <h2>EDUCATION</h2>
       
       <div class="education-item">
-        <h3>Master of Electrical Engineering</h3>
+        <h3>Master of Energy & Automation</h3>
         <p class="institution">Vienna University of Technology</p>
-        <p class="duration">2014 - 2019</p>
+        <p class="duration">2015 - 2019</p>
       </div>
 
       <div class="education-item">
         <h3>Bachelor of Electrical Engineering - Power</h3>
         <p class="institution">Azad University South-Tehran Branch</p>
-        <p class="duration">2006 - 2009</p>
+        <p class="duration">2006 - 2010</p>
       </div>
     </section>
 
@@ -100,18 +114,20 @@ permalink: /
       
       <div class="skills-grid">
         <div class="skill-category">
-          <h3>Languages</h3>
+          <h3>Programming</h3>
           <ul>
-            <li>English (Advanced)</li>
-            <li>German (Advanced)</li>
-            <li>Persian (Native)</li>
+            <li>MATLAB (Advanced)</li>
+            <li>C (Intermediate)</li>
+            <li>C# (Intermediate)</li>
+            <li>Python (Intermediate)</li>
+            <li>JavaScript (Intermediate)</li>
           </ul>
         </div>
 
         <div class="skill-category">
           <h3>Software</h3>
           <ul>
-            <li>MATLAB (Advanced)</li>
+            <li>Git (Advanced)</li>
             <li>AutoCAD Electrical (Intermediate)</li>
             <li>ePLAN (Intermediate)</li>
             <li>Simatic Manager (Intermediate)</li>
@@ -119,22 +135,22 @@ permalink: /
         </div>
 
         <div class="skill-category">
-          <h3>Programming</h3>
+          <h3>Languages</h3>
           <ul>
-            <li>C (Intermediate)</li>
-            <li>C# (Intermediate)</li>
-            <li>Python (Intermediate)</li>
-            <li>JavaScript (Intermediate)</li>
+            <li>Persian (Native)</li>
+            <li>English (Advanced)</li>
+            <li>German (Advanced)</li>
           </ul>
         </div>
+
       </div>
     </section>
 
     <!-- About Me Section -->
     <section class="resume-section">
-      <h2>PROFILE</h2>
+      <h2>ABOUT ME</h2>
       <p class="profile-text">
-        Results-driven Electrical Engineer with 14-year track record in industrial automation, particularly for oil and gas projects. 
+        Results-driven Electrical Engineer with 15-year track record in industrial automation, particularly for oil and gas projects. 
         Experienced in both domestic and international projects with strong technical design skills. 
         Committed to excellence with working proficiency in English and German. 
         Combines technical expertise with research interests and programming skills.

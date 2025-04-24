@@ -24,7 +24,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Mehdi Omidi"
 title_separator          : "-"
-subtitle                 : "Automation Engineer"
+subtitle                 : "Automation Engineer | Over 15 years of experience in tackling engineering challenges"
 name                     : "Mehdi Omidi"
 description              : "Online Cv"
 url                      : " https://m-omidi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

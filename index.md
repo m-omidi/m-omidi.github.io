@@ -17,10 +17,6 @@ permalink: /
       <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Gender:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">Male</td>
-    </tr>
-    <tr>
       <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Location:</strong></td>
       <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
     </tr>
@@ -30,12 +26,18 @@ permalink: /
     </tr>
     <tr>
   <tr>
-  <td class="label" style="color: #a0a8c0; font-size: 0.85em;">&#9993; <strong>Email:</strong></td>
-  <td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
+<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
+  <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+</td>
+<td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
+
 </tr>
 
-  <td class="label" style="color: #a0a8c0; font-size: 0.85em;">📞 <strong>Phone:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
+<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
+  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px;"></i> <strong>Phone:</strong>
+</td>
+<td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
+
     </tr>
   </table>
 </div>
@@ -53,7 +55,7 @@ permalink: /
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Innovative Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (Drawings, loop diagrams, I/O list). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
+    Innovative Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (I/O list, philosophy of Control, Drawings, loop diagrams,...). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
   </p>
 </section>
     <!-- Work Experience Section -->

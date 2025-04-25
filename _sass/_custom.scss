@@ -175,6 +175,7 @@
   
   .resume-section {
     margin-bottom: 2.5em;
+    text-justify: inter-word;
   }
   
   .resume-section h2 {
@@ -304,3 +305,4 @@
 .project-list li:last-child {
   border-bottom: none; /* حذف خط جداکننده از آخرین پروژه */
 }
+

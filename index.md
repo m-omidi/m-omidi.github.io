@@ -145,7 +145,15 @@ permalink: /
     <!-- Projects Section -->
 <section class="resume-section">
   <h2>KEY PROJECTS</h2>
-  <ul class="project-list">
+  <ul class="project-list" style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
 
       <li>
       <strong>Development and Implementation of an Automated Industrial Process Control System</strong> (2020)<br>
@@ -197,14 +205,54 @@ permalink: /
 
 
     <!-- About Me Section -->
-    <section class="resume-section">
-      <h2>ABOUT ME</h2>
-      <p class="profile-text">
-        Results-driven Electrical Engineer with 15-year track record in industrial automation, particularly for oil and gas projects. 
-        Experienced in both domestic and international projects with strong technical design skills. 
-        Committed to excellence with working proficiency in English and German. 
-        Combines technical expertise with research interests and programming skills.
-      </p>
-    </section>
+<section class="resume-section">
+  <h2>ABOUT ME</h2>
+  <p style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    With a strong background in industrial automation and control systems, I have had the privilege of working on diverse projects that allowed me to grow in both technical skills and problem-solving abilities. My journey has been shaped by collaboration, learning from colleagues, and embracing challenges that have helped me contribute to meaningful solutions.
+  </p>
+  <p style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    My experience spans across designing and implementing PLC-based control systems, troubleshooting, and optimizing industrial processes to enhance efficiency. Working with teams to deliver automation solutions has been a constant source of inspiration and learning. I focus on integrating reliable technology to solve real-world problems in industries such as manufacturing, petrochemical, and power generation.
+  </p>
+  <p style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    I believe in the power of continuous learning and the value of working with others to achieve collective goals. I am motivated by opportunities to innovate, and I look forward to growing in the field of industrial automation while contributing to projects that drive change and progress.
+  </p>
+  <p style="text-align: justify; 
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    Outside of my work, I am passionate about furthering my knowledge, sharing experiences with others, and exploring new ways to apply technology in ways that positively impact industries and communities.
+  </p>
+</section>
+
+
   </main>
 </div>

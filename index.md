@@ -54,7 +54,7 @@ permalink: /
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
-    color: #ffffff;">
+    color: #f5f5f5;">
     Innovative Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (I/O list, philosophy of Control, Drawings, loop diagrams,...). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
   </p>
 </section>

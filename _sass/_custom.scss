@@ -13,7 +13,7 @@
   }
   
   .page__footer * {
-    padding: 0.1 !important;
+    padding: 0.07rem 0 !important;
     margin: 0 !important;
   }
   
@@ -175,7 +175,6 @@
   
   .resume-section {
     margin-bottom: 2.5em;
-    text-justify: inter-word;
   }
   
   .resume-section h2 {
@@ -306,3 +305,54 @@
   border-bottom: none; /* حذف خط جداکننده از آخرین پروژه */
 }
 
+.page__footer-follow {
+  display: flex;
+  justify-content: center; /* مرکز چین کردن آیکون‌ها */
+  align-items: flex-start; /* آیکون‌ها را در بالاترین نقطه قرار می‌دهد */
+}
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-icon {
+  font-size: 24px;
+  color: #333;
+  text-decoration: none;
+  margin-top: 0.5em; /* کمی فاصله بالای آیکون‌ها از Follow: */
+}
+
+.social-icon:hover {
+  color: #007bff;
+}
+
+.footer-social-icons {
+  display: flex;
+  justify-content: center; /* آیکون‌ها را به سمت چپ می‌برد */
+  gap: 15px; 
+  padding: 10px 0;
+}
+
+.page__footer-copyright {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.page__footer-follow li {
+  list-style: none;
+}
+
+
+.page__footer 
+
+.footer-social-icons .social-icons li {
+  margin: 0 8px;
+}
+
+.footer-social-icons .social-icons i {
+  font-size: 1.1rem;
+}

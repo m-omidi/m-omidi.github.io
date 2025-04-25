@@ -294,3 +294,13 @@
     }
   }
 }
+
+.project-list li {
+  margin-bottom: 20px; /* افزایش فاصله عمودی بین پروژه‌ها */
+  padding-bottom: 10px; /* افزودن پدینگ پایین برای ایجاد فاصله بیشتر */
+  border-bottom: 1px solid #ddd; /* اضافه کردن خط جداکننده زیر هر پروژه */
+}
+
+.project-list li:last-child {
+  border-bottom: none; /* حذف خط جداکننده از آخرین پروژه */
+}

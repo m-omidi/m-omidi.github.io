@@ -30,11 +30,11 @@ permalink: /
     </tr>
     <tr>
   <tr>
-  <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>✉️ Email:</strong></td>
+  <td class="label" style="color: #a0a8c0; font-size: 0.85em;">&#9993; <strong>Email:</strong></td>
   <td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
 </tr>
 
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>📞 Phone:</strong></td>
+  <td class="label" style="color: #a0a8c0; font-size: 0.85em;">📞 <strong>Phone:</strong></td>
       <td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
     </tr>
   </table>
@@ -109,8 +109,6 @@ permalink: /
             <li>Collaborated with mechanical and instrumentation teams to integrate multidisciplinary systems and optimize machine performance and reliability.</li>
           </ul>
         </div>
-
-
       <!-- Add other work experiences in the same format -->
     </section>
 
@@ -145,48 +143,58 @@ permalink: /
     </section>
 
     <!-- Projects Section -->
-    <section class="resume-section">
-      <h2>KEY PROJECTS</h2>
-      <!-- List your projects here -->
-    </section>
+<section class="resume-section">
+  <h2>KEY PROJECTS</h2>
+  <ul class="project-list">
 
-    <!-- Skills Section -->
-    <section class="resume-section">
-      <h2>SKILLS</h2>
-      
-      <div class="skills-grid">
-        <div class="skill-category">
-          <h3>Programming</h3>
-          <ul>
-            <li>MATLAB (Advanced)</li>
-            <li>C (Intermediate)</li>
-            <li>C# (Intermediate)</li>
-            <li>Python (Intermediate)</li>
-            <li>JavaScript (Intermediate)</li>
-          </ul>
-        </div>
+      <li>
+      <strong>Development and Implementation of an Automated Industrial Process Control System</strong> (2020)<br>
+      Led the design and implementation of a fully automated control system for a manufacturing plant. The system utilized PLCs (Siemens S7-400) and integrated HMI for real-time monitoring and process control. The solution enhanced operational efficiency by 30% through precise temperature, pressure, and flow control, reducing human error and optimizing production cycles. This project included complete system integration, from sensor selection to final commissioning and operational training for plant staff.
+    </li>
+    <li>
+      <strong>Design of Redundant Power Supply and Control Architecture for Critical Industrial Equipment</strong> (2021)<br>
+      Engineered a redundant power supply and control system for a petrochemical processing plant, ensuring continuous operation of critical equipment during power interruptions. The design incorporated dual-redundant PLCs (Siemens S7-400) and power supplies, with automatic switching to backup systems in case of failure. This system significantly reduced downtime and increased system reliability, while also implementing preventive maintenance protocols and fault diagnostic features for early problem detection.
+    </li>
+  <li>
+    <strong>Development of a Specialized Engineering Software for Laboratory Data Analysis</strong> (TU Wien)<br>
+    Designed and developed a technical software application during tenure at TU Wien (Vienna University of Technology), tailored for engineering research workflows. The tool processed experimental laboratory data as input and provided users with configurable settings to perform customized analytical computations. It featured a graphical user interface for visualizing results, enhancing clarity in data interpretation and supporting advanced engineering decision-making.
+  </li>
 
-        <div class="skill-category">
-          <h3>Software</h3>
-          <ul>
-            <li>Git (Advanced)</li>
-            <li>AutoCAD Electrical (Intermediate)</li>
-            <li>ePLAN (Intermediate)</li>
-            <li>Simatic Manager (Intermediate)</li>
-          </ul>
-        </div>
+  <li>
 
-        <div class="skill-category">
-          <h3>Languages</h3>
-          <ul>
-            <li>Persian (Native)</li>
-            <li>English (Advanced)</li>
-            <li>German (Advanced)</li>
-          </ul>
-        </div>
+    <strong>Design and Construction of a Multi-Stage Starting Wound Rotor Induction Motor</strong> (2004)<br>
+    Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
+  </li>
+  </ul>
+</section>
 
-      </div>
-    </section>
+
+<section class="resume-section">
+  <h2>SKILLS</h2>
+  <h3>Programming</h3>
+  <ul>
+    <li>MATLAB (Advanced) - Extensive experience in scientific computing, data analysis, and modeling.</li>
+    <li>C# (Intermediate) - Experience with desktop applications and system integration.</li>
+    <li>Python (Intermediate) - Skilled in data analysis, automation, and software development.</li>
+    <li>JavaScript (Intermediate) - Familiar with web development and dynamic content scripting.</li>
+  </ul>
+  
+  <h3>Software</h3>
+  <ul>
+    <li>AutoCAD Electrical (Intermediate) - Proficient in creating electrical schematics and control system layouts.</li>
+    <li>ePLAN (Intermediate) - Experience in designing electrical systems and creating wiring diagrams.</li>
+    <li>Simatic Manager (Intermediate) - Familiar with programming and configuring Siemens PLCs.</li>
+    <li>Rockwell Studio 5000 (Intermediate) - Experience in programming and managing Rockwell automation systems.</li>
+  </ul>
+
+  <h3>Languages</h3>
+  <ul>
+    <li>Persian (Native)</li>
+    <li>English (Advanced) - Fluent in technical documentation and communication in a professional environment.</li>
+    <li>German (Advanced) - Able to communicate effectively in both technical and casual settings.</li>
+  </ul>
+</section>
+
 
     <!-- About Me Section -->
     <section class="resume-section">

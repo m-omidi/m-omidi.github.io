@@ -264,3 +264,33 @@
 .masthead__menu {
   border-top: none !important;
 }
+
+.experience-item {
+  .responsibilities {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    line-height: 1.6;
+    margin-left: -20px;
+    padding-right: 10px;
+
+    li {
+      margin-bottom: 0.5em;
+      text-indent: -1.2em;
+      padding-left: 1.2em;
+      position: relative;
+
+      &::before {
+        content: "•";
+        position: absolute;
+        left: 0;
+        color: #3498db;
+      }
+
+      span {
+        display: inline-block;
+        width: 100%;
+      }
+    }
+  }
+}

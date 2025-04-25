@@ -63,11 +63,15 @@ permalink: /
       <div class="experience-item">
         <h3>Research Assistant</h3>
         <p class="company">TU Vienna, Austria</p>
-        <p class="duration">2019 - Present</p>
+        <p class="duration">2018 - 2022</p>
         <ul class="responsibilities">
-          <li>Modeled the dynamic behavior of electrical machine insulation under high-frequency pulse stress using modern breakdown mechanisms</li>
-          <li>Evaluated characteristics and performance of various electrical machine insulations to identify weaknesses and optimize performance</li>
-          <li>Conducted simulations using MATLAB to analyze insulation behavior under different operating conditions</li>
+          <li>Modeling the dynamic behavior of electrical machine insulation under high-frequency
+          pulse stress using modern silicon carbide (SiC) semiconductors, with focus on insulation
+          breakdown mechanisms.</li>
+          <li>Evaluation of characteristics and performance of various electrical machine insulations to
+          identify weaknesses, optimize performance and enhance service life.</li>
+          <li>Simulation using MATLAB software to analyze insulation behavior under different operating
+          conditions and assess the effects of temperature and humidity on performance.</li>
         </ul>
       </div>
 

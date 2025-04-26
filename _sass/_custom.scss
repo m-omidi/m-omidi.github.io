@@ -475,8 +475,28 @@
 }
 
 html, body {
-  overflow: hidden; /* غیرفعال کردن اسکرول برای کل صفحه */
+  overflow: hidden; /* غیرفعال کردن اسکرول اصلی */
   height: 100%;
   margin: 0;
   padding: 0;
+}
+
+.resume-container {
+  height: 100vh; /* یا از calc استفاده کنید اگر فوتر ارتفاع ثابتی دارد */
+  overflow-y: auto; /* اسکرول فقط داخل این بخش */
+}
+
+/* اگر فوتر ارتفاع ثابتی دارد (مثلاً 60px) */
+.resume-container {
+  height: calc(100vh - 60px); /* فضای فوتر را کم کنید */
+}
+
+/* مخفی کردن اسکرول بار در همه مرورگرها */
+.resume-container {
+  -ms-overflow-style: none;  /* اینترنت اکسپلورر و Edge */
+  scrollbar-width: none;  /* فایرفاکس */
+}
+
+.resume-container::-webkit-scrollbar {
+  display: none;  /* کروم، سافاری و اپرا */
 }

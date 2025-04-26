@@ -55,7 +55,11 @@ permalink: /
     hyphens: auto;
     font-size: 0.9em;
     color: #f5f5f5;">
-    Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (I/O list, philosophy of Control, Drawings, loop diagrams,...). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
+    
+    
+Automation Engineer with a strong foundation in electrical engineering and hands-on experience in industrial automation projects, particularly in oil, gas, and petrochemical sectors. Skilled in PLC programming, control panel design, system architecture development, and preparation of technical documents such as I/O lists, control philosophies, and loop diagrams.
+
+Focused on delivering precise and reliable solutions by combining engineering knowledge with a software-driven approach to optimize workflows and create custom tools when needed. Known for attention to detail, structured problem-solving, and a consistent commitment to high technical standards.
   </p>
 </section>
     <!-- Work Experience Section -->
@@ -238,89 +242,91 @@ permalink: /
 
 
 <!-- Projects Section -->
-<section class="resume-section">
-  <h2>KEY PROJECTS</h2>
-  <ul class="project-list" style="text-align: justify; 
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-
-      <li>
-      <strong>Development and Implementation of an Automated Industrial Process Control System</strong> (2020)<br>
+<!-- Projects Section -->
+<section class="resume-section" style="margin-bottom: 1.2rem;">
+  <h2 style="font-size: 1rem; margin-bottom: 1rem; padding-left: 0;">KEY PROJECTS</h2>
+  
+  <ul style="padding-left: 0; list-style-type: none; font-size: 0.68rem;">
+    <li style="margin-bottom: 1rem; text-align: justify;">
+      <strong>Development of Automated Control System</strong> (2020)<br>
       Led the design and implementation of a fully automated control system for a manufacturing plant. The system utilized PLCs (Siemens S7-400) and integrated HMI for real-time monitoring and process control. The solution enhanced operational efficiency by 30% through precise temperature, pressure, and flow control, reducing human error and optimizing production cycles. This project included complete system integration, from sensor selection to final commissioning and operational training for plant staff.
     </li>
-    <li>
-      <strong>Design of Redundant Power Supply and Control Architecture for Critical Industrial Equipment</strong> (2021)<br>
+    <li style="margin-bottom: 1rem; text-align: justify;">
+      <strong>Redundant Power Supply Design</strong> (2021)<br>
       Engineered a redundant power supply and control system for a petrochemical processing plant, ensuring continuous operation of critical equipment during power interruptions. The design incorporated dual-redundant PLCs (Siemens S7-400) and power supplies, with automatic switching to backup systems in case of failure. This system significantly reduced downtime and increased system reliability, while also implementing preventive maintenance protocols and fault diagnostic features for early problem detection.
     </li>
-  <li>
-    <strong>Development of a Specialized Engineering Software for Laboratory Data Analysis</strong> (TU Wien)<br>
-    Designed and developed a technical software application during tenure at TU Wien (Vienna University of Technology), tailored for engineering research workflows. The tool processed experimental laboratory data as input and provided users with configurable settings to perform customized analytical computations. It featured a graphical user interface for visualizing results, enhancing clarity in data interpretation and supporting advanced engineering decision-making.
-  </li>
-
-  <li>
-
-    <strong>Design and Construction of a Multi-Stage Starting Wound Rotor Induction Motor</strong> (2004)<br>
-    Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
-  </li>
+    <li style="margin-bottom: 1rem; text-align: justify;">
+      <strong>Engineering Data Analysis Tool</strong> (TU Wien)<br>
+      Designed and developed a technical software application during tenure at TU Wien (Vienna University of Technology), tailored for engineering research workflows. The tool processed experimental laboratory data as input and provided users with configurable settings to perform customized analytical computations. It featured a graphical user interface for visualizing results, enhancing clarity in data interpretation and supporting advanced engineering decision-making.
+    </li>
+    <li style="margin-bottom: 1rem; text-align: justify;">
+      <strong>Multi-Stage Induction Motor</strong> (2004)<br>
+      Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
+    </li>
   </ul>
 </section>
 
-
-    <!-- About Me Section -->
+<!-- About Me Section -->
+<!-- About Me Section -->
 <section class="resume-section">
   <h2>ABOUT ME</h2>
-  <p style="text-align: justify; 
+  <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    With a strong background in industrial automation and control systems, I have had the privilege of working on diverse projects that allowed me to grow in both technical skills and problem-solving abilities. My journey has been shaped by collaboration, learning from colleagues, and embracing challenges that have helped me contribute to meaningful solutions.
+    My technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped my view of engineering as a practical craft closely tied to real-world challenges.
   </p>
-  <p style="text-align: justify; 
+
+  <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    My experience spans across designing and implementing PLC-based control systems, troubleshooting, and optimizing industrial processes to enhance efficiency. Working with teams to deliver automation solutions has been a constant source of inspiration and learning. I focus on integrating reliable technology to solve real-world problems in industries such as manufacturing, petrochemical, and power generation.
+    Over the years, I worked on a range of technical projects across different sectors, developing my ability to adapt, collaborate, and deliver reliable solutions. I gradually learned that true expertise is not just about collecting skills but about recognizing the situations where errors can arise and building the discipline to prevent them.
   </p>
-  <p style="text-align: justify; 
+
+  <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    I believe in the power of continuous learning and the value of working with others to achieve collective goals. I am motivated by opportunities to innovate, and I look forward to growing in the field of industrial automation while contributing to projects that drive change and progress.
+    At a certain stage, I transitioned toward academic research and joined a university setting abroad. That move reflected my strong interest at the time and helped broaden my technical and analytical perspectives. However, over time, my priorities evolved, and I found that my deeper motivation remained with engineering practice and system-level problem-solving.
   </p>
-  <p style="text-align: justify; 
+
+  <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Outside of my work, I am passionate about furthering my knowledge, sharing experiences with others, and exploring new ways to apply technology in ways that positively impact industries and communities.
+    After returning to my home country, I continued my professional journey with a wider perspective, integrating practical knowledge with the broader experience gained abroad, while keeping a disciplined and solution-driven approach at the core of my work.
+  </p>
+
+  <p style="text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto 0 auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    I am currently seeking new opportunities as an automation engineer, aiming to apply my background, practical mindset, and commitment to high standards in real-world industrial projects. If you are looking for someone with this profile, I would be happy to connect.
   </p>
 </section>
-
-
-  </main>
-</div>

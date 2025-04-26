@@ -438,3 +438,34 @@
   }
 }
 
+.education-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-bottom: 0.8rem;
+}
+
+.degree {
+  font-weight: 600;
+  color: #2980b9;
+  margin-right: 0.5rem;
+}
+
+.institution {
+  font-style: italic;
+  margin-right: 0.5rem;
+  position: relative;
+  padding-right: 0.5rem;
+}
+
+.institution::after {
+  content: "|";
+  position: absolute;
+  right: -0.3rem;
+  color: #aaa;
+}
+
+.duration {
+  color: #666;
+  font-size: 0.9em;
+}

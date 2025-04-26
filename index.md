@@ -55,7 +55,7 @@ permalink: /
     hyphens: auto;
     font-size: 0.9em;
     color: #f5f5f5;">
-    Innovative Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (I/O list, philosophy of Control, Drawings, loop diagrams,...). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
+    Automation Engineer with a strong background in electrical engineering and hands-on experience in industrial automation systems, particularly within oil & gas and petrochemical projects. Proficient in PLC systems (Siemens S7-400 series), control panel design, and documentation (I/O list, philosophy of Control, Drawings, loop diagrams,...). Passionate about merging engineering with software to create custom tools and streamline workflows. Known for fast execution, precision, and a problem-solving mindset.
   </p>
 </section>
     <!-- Work Experience Section -->
@@ -112,39 +112,132 @@ permalink: /
     </ul>
   </div>
 <!-- Add other work experiences in the same format -->
+<section class="resume-section">
+  <h2 style="font-size: 1rem; margin-bottom: 1rem;">EDUCATION</h2>
+
+  <div style="display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.68rem;">
+
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 0 0 35%; font-weight: bold;">Master of Energy & Automation</div>
+      <div style="flex: 0 0 60%; text-align: left;">
+        <div>Vienna University of Technology</div>
+        <div>2015 - 2019</div>
+      </div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 0 0 35%; font-weight: bold;">Bachelor of Electrical Engineering</div>
+      <div style="flex: 0 0 60%; text-align: left;">
+        <div>Azad University South-Tehran Branch</div>
+        <div>2006 - 2010</div>
+      </div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 0 0 35%; font-weight: bold;">Associate Degree in Electrical Engineering</div>
+      <div style="flex: 0 0 60%; text-align: left;">
+        <div>Technical and Vocational College of Babol</div>
+        <div>2002 - 2005</div>
+      </div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 0 0 35%; font-weight: bold;">Diploma in Industrial Electricity</div>
+      <div style="flex: 0 0 60%; text-align: left;">
+        <div>Razi Technical High School</div>
+        <div>2000 - 2002</div>
+      </div>
+    </div>
+
+  </div>
 </section>
 
-    <!-- Education Section -->
-    <section class="resume-section">
-      <h2>EDUCATION</h2>
-      
-      <div class="education-item">
-        <h3>Master of Energy & Automation</h3>
-        <p class="institution">Vienna University of Technology</p>
-        <p class="duration">2015 - 2019</p>
-      </div>
 
-      <div class="education-item">
-        <h3>Bachelor of Electrical Engineering</h3>
-        <p class="institution">Azad University South-Tehran Branch</p>
-        <p class="duration">2006 - 2010</p>
-      </div>
+<section class="resume-section" style="margin-bottom: 1.2rem;">
+  <h2 style="font-size: 1rem; margin-bottom: 1rem;">SKILLS</h2>
 
-      <div class="education-item">
-      <h3>Associate Degree in Industrial Electrical Engineering</h3>
-      <p class="institution">Technical and Vocational College of Babol</p>
-      <p class="duration">2002 - 2005</p>
+  <div style="display: flex; flex-direction: column; font-size: 0.68rem;">
+
+    <!-- Programming -->
+    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Programming</h3>
+
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">MATLAB (Advanced)</span>
+      <span style="flex: 0 0 60%;">Scientific computing, data analysis, and modeling.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">C# (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Desktop applications and system integration.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Python (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Data analysis, automation, and software development.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">JavaScript (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Web development and dynamic content scripting.</span>
     </div>
 
-    <div class="education-item">
-      <h3>Diploma in Industrial Electricity</h3>
-      <p class="institution">Razi Technical High School</p>
-      <p class="duration">2000 - 2002</p>
+    <!-- Software -->
+    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Software</h3>
+
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">AutoCAD Electrical (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Electrical schematics and control layouts.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">ePLAN (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Electrical system design and wiring diagrams.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Simatic Manager (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Siemens PLCs configuration and programming.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Rockwell Studio 5000 (Intermediate)</span>
+      <span style="flex: 0 0 60%;">Rockwell automation systems programming.</span>
     </div>
 
-    </section>
+    <!-- Language -->
+    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Language</h3>
 
-    <!-- Projects Section -->
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Persian</span>
+      <span style="flex: 0 0 60%;">Native</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">English</span>
+      <span style="flex: 0 0 60%;">Advanced, fluent in professional technical communication.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">German</span>
+      <span style="flex: 0 0 60%;">Advanced, effective communication in technical and casual settings.</span>
+    </div>
+
+    <!-- Soft -->
+    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Soft Skills</h3>
+
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Problem Solving</span>
+      <span style="flex: 0 0 60%;">Analytical approach to identifying and resolving issues efficiently.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Team Collaboration</span>
+      <span style="flex: 0 0 60%;">Effective communication and cooperation within multidisciplinary teams.</span>
+    </div>
+    <div style="display: flex; justify-content: space-between;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Critical Thinking</span>
+      <span style="flex: 0 0 60%;">Strategic evaluation and decision-making under pressure.</span>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+<!-- Projects Section -->
 <section class="resume-section">
   <h2>KEY PROJECTS</h2>
   <ul class="project-list" style="text-align: justify; 
@@ -175,33 +268,6 @@ permalink: /
     <strong>Design and Construction of a Multi-Stage Starting Wound Rotor Induction Motor</strong> (2004)<br>
     Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
   </li>
-  </ul>
-</section>
-
-
-<section class="resume-section">
-  <h2>SKILLS</h2>
-  <h3>Programming</h3>
-  <ul>
-    <li>MATLAB (Advanced) - Extensive experience in scientific computing, data analysis, and modeling.</li>
-    <li>C# (Intermediate) - Experience with desktop applications and system integration.</li>
-    <li>Python (Intermediate) - Skilled in data analysis, automation, and software development.</li>
-    <li>JavaScript (Intermediate) - Familiar with web development and dynamic content scripting.</li>
-  </ul>
-  
-  <h3>Software</h3>
-  <ul>
-    <li>AutoCAD Electrical (Intermediate) - Proficient in creating electrical schematics and control system layouts.</li>
-    <li>ePLAN (Intermediate) - Experience in designing electrical systems and creating wiring diagrams.</li>
-    <li>Simatic Manager (Intermediate) - Familiar with programming and configuring Siemens PLCs.</li>
-    <li>Rockwell Studio 5000 (Intermediate) - Experience in programming and managing Rockwell automation systems.</li>
-  </ul>
-
-  <h3>Languages</h3>
-  <ul>
-    <li>Persian (Native)</li>
-    <li>English (Advanced) - Fluent in technical documentation and communication in a professional environment.</li>
-    <li>German (Advanced) - Able to communicate effectively in both technical and casual settings.</li>
   </ul>
 </section>
 

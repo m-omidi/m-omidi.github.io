@@ -1,24 +1,32 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
+<footer style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: #262a35; text-align: center; padding: 0.4rem 0.2rem; font-size: 0.68rem; color: #ccc; z-index: 1000;">
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  </ul>
-</div>
+  <div style="margin-bottom: 0.3rem;">
+    <ul style="padding: 0; margin: 0; list-style: none; display: flex; justify-content: center; gap: min(1.8rem, 5vw); flex-wrap: wrap;">
+      <li>
+        <a href="https://twitter.com/omidiiran" style="color: #ccc; font-size: 1.2rem;">
+          <i class="fa-brands fa-x-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com" style="color: #ccc; font-size: 1.2rem;">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+      <li>
+        <a href="mailto:m-omidi@hotmail.com" style="color: #ccc; font-size: 1.2rem;">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      <li>
+        <a href="tel:+989369066014" style="color: #ccc; font-size: 1.2rem;">
+          <i class="fas fa-phone-alt"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
 
-<!-- آیکون‌ها به همراه لینک‌ها -->
-<div class="footer-social-icons">
-  <ul class="social-icons">
-    <li><a href="https://twitter.com/omidiiran" class="social-icon" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-    <li><a href="https://www.linkedin.com" class="social-icon" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-    <li><a href="mailto:m-omidi@hotmail.com" class="social-icon"><i class="fas fa-envelope"></i></a></li>
-    <li><a href="tel:+989369066014" class="social-icon"><i class="fas fa-phone-alt"></i></a></li>
-  </ul>
-</div>
+  <div style="font-size: 0.68rem;">
+    &copy; 2025 Mehdi Omidi. Engineering ideas into reality.
+  </div>
 
-<div class="page__footer-copyright">&copy; 2025 Mehdi Omidi. Engineering ideas into reality.</div>
+</footer>

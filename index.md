@@ -327,6 +327,10 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    I am currently seeking new opportunities as an automation engineer, aiming to apply my background, practical mindset, and commitment to high standards in real-world industrial projects. If you are looking for someone with this profile, I would be happy to connect.
+    
+I am currently seeking new opportunities as an Automation Engineer, aiming to apply my background, practical mindset, and commitment to high standards in real-world industrial projects.
+Whether it is a full-time position, a project-based assignment, or any engineering challenge aligned with my expertise, I would be happy to connect and contribute.
+
+
   </p>
 </section>

@@ -10,21 +10,18 @@
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" min-height: 100vh;
-  display: flex;
-  flex-direction: column;>
-    <div class="language-switcher" style="
-    position: absolute;  /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" style="min-height: 100vh; display: flex; flex-direction: column;">
+  <div class="language-switcher" style="
+    position: absolute; /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
     top: 15px;
     right: 65px;
     font-size: 15px;
     font-family: Vazir;
-    z-index: 9999;    /* بالاترین مقدار ممکن */
+    z-index: 9999; /* بالاترین مقدار ممکن */
     padding: 5px 10px;
     border-radius: 4px;
-    background-color: #262a35;
+    background-color: #262a35;">
 
-">
   <a href="/" style="text-decoration: none;">English</a> | 
   <a href="/de/" style="text-decoration: none;">Deutsch</a> | 
   <a href="/fa/" style="text-decoration: none;">فارسی</a> 

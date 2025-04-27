@@ -21,7 +21,7 @@ permalink: /
       <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
     </tr>
         <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Resume Website:</strong></td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Online CV:</strong></td>
       <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi.github.io</td>
     </tr>
     <tr>
@@ -244,19 +244,16 @@ Focused on delivering precise and reliable solutions by combining engineering kn
 <!-- Projects Section -->
 <!-- Projects Section -->
 <section class="resume-section" style="margin-bottom: 1.2rem;">
-  <h2 style="font-size: 1rem; margin-bottom: 1rem; padding-left: 0;">KEY PROJECTS</h2>
+  <h2 style="font-size: 1rem; margin-bottom: 1rem; padding-left: 0;">PROFESSIONAL KEY PROJECTS</h2>
   
   <ul style="padding-left: 0; list-style-type: none; font-size: 0.68rem;">
+
     <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Development of Automated Control System</strong> (2020)<br>
-      Led the design and implementation of a fully automated control system for a manufacturing plant. The system utilized PLCs (Siemens S7-400) and integrated HMI for real-time monitoring and process control. The solution enhanced operational efficiency by 30% through precise temperature, pressure, and flow control, reducing human error and optimizing production cycles. This project included complete system integration, from sensor selection to final commissioning and operational training for plant staff.
-    </li>
-    <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Redundant Power Supply Design</strong> (2021)<br>
+      <strong>Redundant Power Supply Design</strong> (2018)<br>
       Engineered a redundant power supply and control system for a petrochemical processing plant, ensuring continuous operation of critical equipment during power interruptions. The design incorporated dual-redundant PLCs (Siemens S7-400) and power supplies, with automatic switching to backup systems in case of failure. This system significantly reduced downtime and increased system reliability, while also implementing preventive maintenance protocols and fault diagnostic features for early problem detection.
     </li>
     <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Engineering Data Analysis Tool</strong> (TU Wien)<br>
+      <strong>Engineering Data Analysis Tool</strong> (2021)<br>
       Designed and developed a technical software application during tenure at TU Wien (Vienna University of Technology), tailored for engineering research workflows. The tool processed experimental laboratory data as input and provided users with configurable settings to perform customized analytical computations. It featured a graphical user interface for visualizing results, enhancing clarity in data interpretation and supporting advanced engineering decision-making.
     </li>
     <li style="margin-bottom: 1rem; text-align: justify;">

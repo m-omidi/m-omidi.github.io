@@ -279,7 +279,7 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    My technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped my view of engineering as a practical craft closely tied to real-world challenges.
+    A technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped the view of engineering as a practical craft closely tied to real-world challenges.
   </p>
 
   <p style="text-align: justify;
@@ -291,7 +291,7 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Over the years, I worked on a range of technical projects across different sectors, developing my ability to adapt, collaborate, and deliver reliable solutions. I gradually learned that true expertise is not just about collecting skills but about recognizing the situations where errors can arise and building the discipline to prevent them.
+    Over the years, a range of technical projects across different sectors provided the opportunity to develop adaptability, collaboration, and a focus on delivering reliable solutions. Gradually, it became clear that true expertise lies not only in collecting skills but in anticipating potential errors and maintaining the discipline to prevent them.
   </p>
 
   <p style="text-align: justify;
@@ -303,34 +303,31 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    At a certain stage, I transitioned toward academic research and joined a university setting abroad. That move reflected my strong interest at the time and helped broaden my technical and analytical perspectives. However, over time, my priorities evolved, and I found that my deeper motivation remained with engineering practice and system-level problem-solving.
+    At a certain stage, a transition toward academic research took place through joining a university setting abroad. This step reflected a strong technical and analytical interest and broadened perspectives. However, over time, the deeper motivation remained rooted in engineering practice and system-level problem-solving.
   </p>
 
   <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    After returning to my home country, I continued my professional journey with a wider perspective, integrating practical knowledge with the broader experience gained abroad, while keeping a disciplined and solution-driven approach at the core of my work.
+    Returning home brought a wider perspective, blending practical knowledge with international experience, while maintaining a disciplined and solution-driven approach at the core of all work. Particular interest is given to unique and technically challenging projects, as well as a continuous appreciation for the depth and beauty of mathematics.
   </p>
 
   <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 2em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    
-      I am currently seeking new opportunities as an Automation Engineer, aiming to apply my background, practical mindset, and commitment to high standards in real-world industrial projects.
-      Whether it is a full-time position, a project-based assignment, or any engineering challenge aligned with my expertise, I would be happy to connect and contribute.
-
-
+    Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
   </p>
-</section>
+
+  </section>

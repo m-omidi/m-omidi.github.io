@@ -13,13 +13,11 @@
   }
   
   .page__footer * {
-    padding: 0.07rem 0 !important;
+    padding: 0 0 !important;
     margin: 0 !important;
+    position: static
   }
   
-  .resume-container {
-    display: flex;
-  }
   .sidebar {
     width: 25%;
     padding: 1rem;
@@ -50,7 +48,7 @@
     top: 25px !important;
     align-self: flex-start !important;
     scrollbar-width: none !important;
-    
+
     img {
       display: block;
       margin: 0 auto 1em;
@@ -149,13 +147,6 @@
   .value {
     color: #333;
     font-weight: 500;
-  }
-
-
-  .resume-container {
-    display: flex;
-    max-width: 1200px;
-    margin: 0 auto;
   }
   
   .content {
@@ -337,7 +328,7 @@
 
 .page__footer-copyright {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 .page__footer-follow li {
@@ -480,8 +471,9 @@ html, body {
 }
 
 .resume-container {
-  height: 100vh; /* یا از calc استفاده کنید اگر فوتر ارتفاع ثابتی دارد */
-  overflow-y: auto; /* اسکرول فقط داخل این بخش */
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* اگر فوتر ارتفاع ثابتی دارد (مثلاً 60px) */
@@ -498,3 +490,4 @@ html, body {
 .resume-container::-webkit-scrollbar {
   display: none;  /* کروم، سافاری و اپرا */
 }
+

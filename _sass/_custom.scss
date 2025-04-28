@@ -13,7 +13,7 @@
   }
   
   .page__footer * {
-    padding: 0 0 !important;
+    padding: 0 1rem !important;
     margin: 0 !important;
     position: static
   }
@@ -181,7 +181,7 @@
     // padding: 1em;
     font-size: 0.8rem !important;  /* دو شماره کوچکتر */
     overflow-y: auto !important;
-    height: 70vh !important;
+    height: 76.5vh !important;
     scrollbar-width: none !important; /* برای فایرفاکس */
     -ms-overflow-style: none !important; /* برای IE و Edge */
     .content::-webkit-scrollbar {
@@ -472,8 +472,8 @@
 .footer-social-icons {
   display: flex;
   justify-content: center; /* آیکون‌ها را به سمت چپ می‌برد */
-  gap: 15px; 
-  padding: 10px 0;
+  gap: 0px; 
+  padding: 0px 0;
 }
 
 .page__footer-copyright {
@@ -489,11 +489,11 @@
 .page__footer 
 
 .footer-social-icons .social-icons li {
-  margin: 0 8px;
+  margin: 0 1px;
 }
 
 .footer-social-icons .social-icons i {
-  font-size: 1.1rem;
+  font-size: 0.5rem;
 }
 
 
@@ -635,7 +635,7 @@
 }
 
 .page__footer {
-  scroll-margin-top: 80px;
+  scroll-margin-top: 8px;
 }
 
 

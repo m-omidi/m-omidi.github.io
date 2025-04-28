@@ -346,6 +346,3 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
   </p>
 </section>
-
- </main>
-</div>

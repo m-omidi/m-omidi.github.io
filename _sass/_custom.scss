@@ -134,6 +134,27 @@
     border-collapse: collapse;
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .info-table td {
     padding: 0.5em 0;
     vertical-align: top;
@@ -149,12 +170,18 @@
     font-weight: 500;
   }
   
+
+
+
+
+
+
   .content {
-    flex: 1;
-    padding: 1em;
+    // flex: 1;
+    // padding: 1em;
     font-size: 0.8rem !important;  /* دو شماره کوچکتر */
     overflow-y: auto !important;
-    height: 100vh !important;
+    height: 70vh !important;
     scrollbar-width: none !important; /* برای فایرفاکس */
     -ms-overflow-style: none !important; /* برای IE و Edge */
     .content::-webkit-scrollbar {
@@ -162,6 +189,30 @@
     }
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .resume-section {
     margin-bottom: 2.5em;
   }
@@ -185,6 +236,29 @@
     color: #2980b9;
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .company, .institution {
     font-weight: 600;
     font-size: 0.95em;
@@ -202,6 +276,29 @@
     line-height: 1.5;
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -224,6 +321,27 @@
     font-size: 0.9em;
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // einja kht borde header padidae shod
   .profile-text {
     font-size: 0.95em;
     line-height: 1.6;
@@ -283,6 +401,38 @@
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .project-list li {
   margin-bottom: 20px; /* افزایش فاصله عمودی بین پروژه‌ها */
@@ -345,6 +495,31 @@
 .footer-social-icons .social-icons i {
   font-size: 1.1rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -494,7 +669,7 @@
 
 
 
-
+// was the big bog. Mahdi
 // html, body {
 //   overflow: hidden; /* غیرفعال کردن اسکرول اصلی */
 //   height: 100%;

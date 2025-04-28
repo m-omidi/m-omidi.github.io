@@ -6,13 +6,11 @@ permalink: /de/
 ---
 
 <div class="resume-container">
-<aside class="sidebar">
-<img src="/assets/images/profile.png" alt="Profile" class="profile-image">
+  <aside class="sidebar">
+    <img src="/assets/images/profile.png" alt="Profile" class="profile-image">
 
-
-
-<div class="personal-info" style="background-color: #262a35; padding: 1em; border-radius: 8px; margin-bottom: 2em;">
-  <table class="info-table" style="width: 100%; border-collapse: collapse;">
+    <div class="personal-info" style="background-color: #262a35; padding: 1em; border-radius: 8px; margin-bottom: 2em;">
+      <table class="info-table" style="width: 100%; border-collapse: collapse;">
     <tr>
       <td class="label" style="width: 120px; padding: 0.3em 0; color: #a0a8c0; font-size: 0.85em;"><strong>Age:</strong></td>
       <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
@@ -40,8 +38,8 @@ permalink: /de/
 <td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
 
     </tr>
-  </table>
-</div>
+      </table>
+    </div>
   </aside>
   
   <main class="content">

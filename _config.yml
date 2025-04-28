@@ -336,7 +336,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-multiple-languages-plugin
+  
   - jekyll-include-cache
 languages: ["en", "fa", "de"]
 default_lang: "en"

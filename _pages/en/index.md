@@ -45,7 +45,7 @@ author_profile: true
   </aside>
     <main class="content">
 <section class="resume-section">
-  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #1c3e50;">PROFESSIONAL SUMMARY</h2>
+  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">PROFESSIONAL SUMMARY</h2>
   <p class="profile-text" style="text-align: justify; 
     text-justify: inter-word;
     line-height: 1.6;

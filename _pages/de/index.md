@@ -11,33 +11,30 @@ permalink: /de/
 
     <div class="personal-info" style="background-color: #262a35; padding: 1em; border-radius: 8px; margin-bottom: 2em;">
       <table class="info-table" style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td class="label" style="width: 120px; padding: 0.3em 0; color: #a0a8c0; font-size: 0.85em;"><strong>Age:</strong></td>
-      <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
-    </tr>
-    <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Location:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
-    </tr>
         <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Online CV:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi.github.io</td>
-    </tr>
-    <tr>
-  <tr>
-<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-  <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
-</td>
-<td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
-
-</tr>
-
-<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px;"></i> <strong>Phone:</strong>
-</td>
-<td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
-
-    </tr>
+        <td class="label" style="width: 120px; padding: 0.3em 0; color: #a0a8c0; font-size: 0.85em;"><strong>Age:</strong></td>
+        <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
+        </tr>
+        <tr>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Location:</strong></td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
+        </tr>
+        <tr>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Online CV:</strong></td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi.github.io</td>
+        </tr>
+        <tr>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em;">
+          <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+        </td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
+        </tr>
+        <tr>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em;">
+          <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px;"></i> <strong>Phone:</strong>
+        </td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
+        </tr>
       </table>
     </div>
   </aside>
@@ -346,3 +343,5 @@ Focused on delivering precise and reliable solutions by combining engineering kn
   </p>
 </section>
 
+</main>
+</div>

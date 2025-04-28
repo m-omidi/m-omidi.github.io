@@ -17,7 +17,6 @@ languages: ["en", "fa", "de"]
 default_lang: "en"
 exclude_from_localizations: ["assets", "images", "favicon.ico"]
 
-permalink: /:lang/:categories/:title/
 
 # Site Settings
 locale                   : "en-US"
@@ -28,7 +27,7 @@ subtitle                 : "Automation Engineer | Software-Oriented Thinker"
 name                     : "Mehdi Omidi"
 description              : "Online Cv"
 url                      : " https://m-omidi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -228,7 +227,6 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -342,4 +340,4 @@ languages: ["en", "fa", "de"]
 default_lang: "en"
 exclude_from_localizations: ["assets", "images", "favicon.ico"]
 
-permalink: /:lang/:categories/:title/
+

@@ -219,7 +219,7 @@
   
   .resume-section h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 1px solid rgba(52, 152, 219, 0); /* شفاف‌تر */
     padding-bottom: 0.3em;
     font-size: 1.2em;
     margin-top: 0.09em !important;  /* کاهش از 2em به 0.5em */
@@ -529,7 +529,7 @@
 .resume-section {
   h2 {
     color: #f5f5f5 !important; /* سفید روشن */
-    border-bottom: 2px solid #58a6ff !important; /* آبی روشن */
+    border-bottom: 1px solid #7fbff6;
   }
 
   .experience-item {

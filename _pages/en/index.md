@@ -8,38 +8,35 @@ author_profile: true
 <div class="lang-en">
 <aside class="sidebar">
 <img src="/assets/images/profile.png" alt="Profile" class="profile-image">
+<div class="personal-info" style="background-color: #262a35;">
 
-
-
-<div class="personal-info" style="background-color: #262a35; padding: 1em; border-radius: 8px; margin-bottom: 2em;">
-
-  <table class="info-table" style="width: 100%; table-layout: border-collapse: collapse;">
+  <table class="info-table">
     <tr>
-      <td class="label" style="width: 120px; padding: 0.3em 0; color: #a0a8c0; font-size: 0.85em;"><strong>Age:</strong></td>
-      <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Age:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 Years</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Location:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Location:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">Tavanir, Tehran</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Online CV:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi.github.io</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Online CV:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
     </tr>
-    
-   <tr>
-    <td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
-    </td>
-    <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi@hotmail.com</td>
-   </tr>
-  <tr>
-<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px;"></i> <strong>Phone:</strong>
+      <tr>
+<td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
+  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>Phone:</strong>
 </td>
-<td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
+<td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
 
   </tr>
+   <tr>
+    <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;">
+      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+    </td>
+    <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
+   </tr>
+
   </table>
 </div>
   </aside>

@@ -5,48 +5,44 @@ permalink: /
 author_profile: true
 ---
 
-<div class="resume-container">
+<div class="lang-en">
 <aside class="sidebar">
 <img src="/assets/images/profile.png" alt="Profile" class="profile-image">
+<div class="personal-info" style="background-color: #262a35;">
 
-
-
-<div class="personal-info" style="background-color: #262a35; padding: 1em; border-radius: 8px; margin-bottom: 2em;">
-  <table class="info-table" style="width: 100%; border-collapse: collapse;">
+  <table class="info-table">
     <tr>
-      <td class="label" style="width: 120px; padding: 0.3em 0; color: #a0a8c0; font-size: 0.85em;"><strong>Age:</strong></td>
-      <td class="value" style="padding: 0.3em 0; color: #ffffff; font-size: 0.9em;">40 Years</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Age:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 Years</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Location:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">Tavanir, Tehran, Iran</td>
-    </tr>
-        <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em;"><strong>Online CV:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em;">m-omidi.github.io</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Location:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">Tavanir, Tehran</td>
     </tr>
     <tr>
-  <tr>
-<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-  <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Online CV:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
+    </tr>
+      <tr>
+<td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
+  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>Phone:</strong>
 </td>
-<td class="value" style="color: #ffffff; font-size: 0.9em; white-space: nowrap;">m-omidi@hotmail.com</td>
+<td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
 
-</tr>
+  </tr>
+   <tr>
+    <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;">
+      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+    </td>
+    <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
+   </tr>
 
-<td class="label" style="color: #a0a8c0; font-size: 0.85em;">
-  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px;"></i> <strong>Phone:</strong>
-</td>
-<td class="value" style="color: #ffffff; font-size: 0.9em;">+98 936 906 6014</td>
-
-    </tr>
   </table>
 </div>
   </aside>
-  
-  <main class="content">
+    <main class="content">
 <section class="resume-section">
-  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #2c3e50;">PROFESSIONAL SUMMARY</h2>
+  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">PROFESSIONAL SUMMARY</h2>
   <p class="profile-text" style="text-align: justify; 
     text-justify: inter-word;
     line-height: 1.6;
@@ -347,4 +343,3 @@ Focused on delivering precise and reliable solutions by combining engineering kn
     Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
   </p>
 </section>
-</div>

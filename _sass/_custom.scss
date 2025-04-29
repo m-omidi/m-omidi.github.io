@@ -45,13 +45,13 @@
     border-radius: 1px;
     font-size: 0.97em;
     position: sticky !important;
-    top: 25px !important;
+    top: 65px !important;
     align-self: flex-start !important;
     scrollbar-width: none !important;
 
     img {
       display: block;
-      margin: 0 auto 1em;
+      margin-top: 30px;
     }
     
     h2 {
@@ -71,7 +71,6 @@
     margin-bottom: 1.5em;
     padding-bottom: 1.5em;
     border-bottom: 1px solid #4d4c48;
-    
     &:last-child {
       border-bottom: none;
     }
@@ -102,15 +101,18 @@
   }
 
   .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    max-width: 250px; /* یا هر عددی که متناسب با طرح شماست */
+    height: auto;
+    // margin: -120px auto 10px auto; /* بالا - راست - پایین - چپ */
     border-radius: 30%;
     object-fit: cover;
     background-color: #3d3c38;
-    margin-left: -30px !important; /* تنظیم میزان جابجایی به چپ */
+    // margin-left: -30px !important; /* تنظیم میزان جابجایی به چپ */
     display: block;
-    float: left;
   }
+
+
 
   .resume-header {
     text-align: center;
@@ -124,9 +126,11 @@
   
   .personal-info {
     background-color: #f5f5f5;
-    padding: 1.5em;
+    padding: 0.5em;
     border-radius: 8px;
     margin-bottom: 2em;
+    margin-left: 30px; /* عدد رو بیشتر کن تا بیشتر به راست بره */
+    // margin-top: 140px; 
   }
   
   .info-table {

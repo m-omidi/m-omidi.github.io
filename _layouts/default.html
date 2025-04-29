@@ -4,15 +4,18 @@
 <!doctype html>
 {% include copyright.html %}
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
-  <head <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head <meta name="viewport" content="width=device-width, initial-scale=1.0,   position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.8); /* سفید با شفافیت ۸۰% */
+  backdrop-filter: blur(5px); /* محو کردن محتوای زیرین */
+  -webkit-backdrop-filter: blur(5px); /* برای سازگاری با Safari */">
    
     {% include head.html %}
     {% include head/custom.html %}
-  </head>
-
-<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" style="min-height: 100vh; display: flex; flex-direction: column;">
-  <div class="language-switcher" style="
-    position: absolute; /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
+    <div class="language-switcher" style="
+    position: fixed ; /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
     top: 15px;
     right: 20px;
     font-size: 14px;
@@ -26,6 +29,10 @@
   <a href="/de/" style="text-decoration: none;">Deutsch</a> | 
   <a href="/fa/" style="text-decoration: none;">فارسی</a> 
   </div>
+  </head>
+
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}" style="min-height: 100vh; display: flex; flex-direction: column;">
+
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
 

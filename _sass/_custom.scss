@@ -15,7 +15,7 @@
   .page__footer * {
     padding: 0 1rem !important;
     margin: 0 !important;
-    position: static
+    position: fixed;
   }
   
   .sidebar {
@@ -185,12 +185,13 @@
     // padding: 1em;
     font-size: 0.8rem !important;  /* دو شماره کوچکتر */
     overflow-y: auto !important;
-    height: 76.5vh !important;
-    scrollbar-width: none !important; /* برای فایرفاکس */
-    -ms-overflow-style: none !important; /* برای IE و Edge */
-    .content::-webkit-scrollbar {
-      display: none !important; /* برای کروم، سافاری و اپرا */
-    }
+    padding-top: 95px;
+    // height: 76.5vh !important;
+    // scrollbar-width: none !important; /* برای فایرفاکس */
+    // -ms-overflow-style: none !important; /* برای IE و Edge */
+    // .content::-webkit-scrollbar {
+    //   display: none !important; /* برای کروم، سافاری و اپرا */
+    // }
   }
   
 
@@ -369,6 +370,7 @@
 .masthead {
   border-bottom: none !important;
   box-shadow: none !important;
+  position: fixed !important;
 }
 
 /* اگر خط بالایی هم وجود دارد */

@@ -13,9 +13,11 @@
   }
   
   .page__footer * {
-    padding: 0 1rem !important;
+    padding: 1rem !important;
     margin: 0 !important;
-    position: fixed;
+    position: sticky;
+    bottom: 0;
+    z-index: 1000;
   }
   
   .sidebar {
@@ -181,12 +183,12 @@
 
 
   .content {
-    // flex: 1;
-    // padding: 1em;
+    flex: 1;
+    padding: 1em;
     font-size: 0.8rem !important;  /* دو شماره کوچکتر */
     overflow-y: auto !important;
     padding-top: 95px;
-    // height: 76.5vh !important;
+    height: 91vh !important;
     // scrollbar-width: none !important; /* برای فایرفاکس */
     // -ms-overflow-style: none !important; /* برای IE و Edge */
     // .content::-webkit-scrollbar {
@@ -372,7 +374,7 @@
   box-shadow: none !important;
   position: fixed !important;
   top: 0;
-  width: 100%;
+  // width: 100%;
   z-index: 1000;
   background: #262a35; /* هم رنگ با پس‌زمینه سایت */
   box-shadow: 0 2px 5px #262a35;

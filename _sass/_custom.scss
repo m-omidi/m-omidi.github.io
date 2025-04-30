@@ -767,3 +767,20 @@
 
 
 
+.theme-toggle-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.5rem;
+  border-radius: 50%;
+  color: #f1c40f;
+  transition: color 0.3s ease;
+  z-index: 9999;
+}
+
+body.light-mode .theme-toggle-btn {
+  color: #2c3e50;
+}

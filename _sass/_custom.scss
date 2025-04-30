@@ -371,6 +371,11 @@
   border-bottom: none !important;
   box-shadow: none !important;
   position: fixed !important;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background: #262a35; /* هم رنگ با پس‌زمینه سایت */
+  box-shadow: 0 2px 5px #262a35;
 }
 
 /* اگر خط بالایی هم وجود دارد */

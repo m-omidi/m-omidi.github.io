@@ -142,25 +142,6 @@
   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   .info-table td {
     padding: 0.5em 0;
     vertical-align: top;
@@ -177,11 +158,6 @@
   }
   
 
-
-
-
-
-
   .content {
     flex: 1;
     padding: 1em;
@@ -196,29 +172,6 @@
     // }
   }
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   .resume-section {
     margin-bottom: 2.5em;
@@ -244,28 +197,6 @@
   }
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   .company, .institution {
     font-weight: 600;
     font-size: 0.95em;
@@ -283,28 +214,6 @@
     line-height: 1.5;
   }
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   .skills-grid {
     display: grid;
@@ -328,24 +237,6 @@
     font-size: 0.9em;
   }
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   // einja kht borde header padidae shod
@@ -416,37 +307,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .project-list li {
   margin-bottom: 20px; /* افزایش فاصله عمودی بین پروژه‌ها */
   padding-bottom: 10px; /* افزودن پدینگ پایین برای ایجاد فاصله بیشتر */
@@ -508,30 +368,6 @@
 .footer-social-icons .social-icons i {
   font-size: 0.5rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 * {
@@ -654,68 +490,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// was the big bog. Mahdi
-// html, body {
-//   overflow: hidden; /* غیرفعال کردن اسکرول اصلی */
-//   height: 100%;
-//   margin: 0;
-//   padding: 0;
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .resume-container {
   display: flex;
   max-width: 1200px;
@@ -741,46 +515,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .theme-toggle-btn {
   background: none;
   border: none;
   cursor: pointer;
   position: fixed;
   top: 1rem;
-  right: 1rem;
-  padding: 0.5rem;
-  border-radius: 50%;
-  color: #f1c40f;
+  // right: 1rem;
+  // padding: 0.5rem;
+  // border-radius: 50%;
+  color: #a0a8c0;
   transition: color 0.3s ease;
   z-index: 9999;
+  outline: none;
+  border: none;
 }
 
 body.light-mode .theme-toggle-btn {
   color: #2c3e50;
+}
+
+.theme-toggle-btn:focus {
+  outline: none;
+  box-shadow: none;
 }

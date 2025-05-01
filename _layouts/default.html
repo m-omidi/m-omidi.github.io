@@ -4,7 +4,7 @@
 <!doctype html>
 {% include copyright.html %}
 <html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
-  <head <meta name="viewport" content="width=device-width, initial-scale=1.0,   position: fixed;
+  <head class="header" <meta name="viewport" content="width=device-width, initial-scale=1.0,   position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000;
@@ -14,19 +14,8 @@
    
     {% include head.html %}
     {% include head/custom.html %}
-    <div class="language-switcher" style="
-    position: fixed ; /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
-    top: 15px;
-    right: 20px;
-    font-size: 14px;
-    font-family: Vazir;
-    z-index: 9999; /* بالاترین مقدار ممکن */
-    padding: 7px 22px;
-    border-radius: 4px;
-    background-color: #262a35;">
-    <button id="theme-toggle" aria-label="Toggle Dark Mode" class="theme-toggle-btn"
-    style="text-decoration: none; position: fixed; top: 0.92rem; right: 9.2rem;"
-    >
+    <div class="language-switcher">
+    <button id="theme-toggle" aria-label="Toggle Dark Mode" class="theme-toggle-btn">
       <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
         <!-- پیش‌فرض: آیکون ماه -->
         <path d="M21 12.79A9 9 0 0111.21 3a7 7 0 000 14 9 9 0 009.79-4.21z"/>

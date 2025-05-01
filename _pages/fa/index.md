@@ -8,7 +8,7 @@ author_profile: true
 <div class="lang-en">
 <aside class="sidebar">
 <img src="/assets/images/profile.png" alt="Profile" class="profile-image">
-<div class="personal-info" style="background-color: #262a35;">
+<div class="personal-info">
 
   <table class="info-table">
     <tr>

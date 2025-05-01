@@ -42,7 +42,7 @@
     float: left; /* Changed to left for English resume */
     margin: 0 0 0 0;
     padding: 0.005em;
-    background-color: #262a35;
+    background-color: #262a35b;
     color: #ffffff;
     border-radius: 1px;
     font-size: 0.97em;
@@ -109,7 +109,7 @@
     // margin: -120px auto 10px auto; /* بالا - راست - پایین - چپ */
     border-radius: 30%;
     object-fit: cover;
-    background-color: #3d3c38;
+    background-color: #262a35;
     // margin-left: -30px !important; /* تنظیم میزان جابجایی به چپ */
     display: block;
   }
@@ -127,7 +127,7 @@
   }
   
   .personal-info {
-    background-color: #f5f5f5;
+    background-color: #262a35;
     padding: 0.5em;
     border-radius: 8px;
     margin-bottom: 2em;
@@ -268,7 +268,7 @@
   width: 98.5%;
   z-index: 1000;
   background: #262a35; /* هم رنگ با پس‌زمینه سایت */
-  box-shadow: 0 2px 5px #262a35;
+  // box-shadow: 0 2px 5px #262a35;
 }
 
 /* اگر خط بالایی هم وجود دارد */
@@ -539,3 +539,75 @@ body.light-mode .theme-toggle-btn {
   outline: none;
   box-shadow: none;
 }
+
+
+
+
+
+body.light-mode {
+  background-color: #f5f5f5;  // رنگ روشن برای پس‌زمینه کل صفحه
+  color: #1a1a1a;             // متن تیره
+
+  // هدر، فوتر، سایدبار، کانتنت
+  .header,
+  footer, .language-switcher, .footer, .personal-info,
+  .page__content, .profile-image , .info-table, .resume-container,
+  .page__sidebar,
+  .page__footer,
+  .page__hero,
+  .masthead,
+  .sidebar {
+    background-color: #ffffff;
+    color: #1a1a1a;
+  }
+
+  // لینک‌ها
+  a {
+    color: #007acc;
+
+    &:hover {
+      color: #005a99;
+    }
+  }
+
+  // اگر بخوای تغییر رنگ کد بلاک و syntax highlighting هم بدی:
+  pre, code {
+    background-color: #eee;
+    color: #2c3e50;
+  }
+}
+
+
+
+
+
+.language-switcher {
+position: fixed ; /* تغییر از absolute به fixed برای ثابت ماندن در اسکرول */
+top: 15px;
+right: 20px;
+font-size: 14px;
+font-family: Vazir;
+z-index: 9999; /* بالاترین مقدار ممکن */
+padding: 7px 22px;
+border-radius: 4px;
+background-color: #262a35;
+}
+
+.theme-toggle-btn
+{
+text-decoration: none; 
+position: fixed; 
+top: 0.92rem; 
+right: 9.2rem;
+}
+
+.footer {
+  background-color: #262a35; 
+  text-align: center; 
+  padding: 0.24rem 0.16rem 0.16rem; 
+  font-size: 0.4rem; 
+  color: #ccc; 
+  z-index: 1000;
+}
+
+

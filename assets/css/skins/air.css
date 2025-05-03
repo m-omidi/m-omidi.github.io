@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Air skin
+   ========================================================================== */
+/* Colors */
+.page__footer {
+  color: #fff !important; }
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit; }
+
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+.page-content {
+  flex: 1; }
+
+/*# sourceMappingURL=air.css.map */

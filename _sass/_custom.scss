@@ -515,67 +515,67 @@
 
 
 
-.theme-toggle-btn {
-  background: none;
-  border: none;
-  cursor: pointer;
-  position: fixed;
-  top: 1rem;
-  // right: 1rem;
-  // padding: 0.5rem;
-  // border-radius: 50%;
-  color: #a0a8c0;
-  transition: color 0.3s ease;
-  z-index: 9999;
-  outline: none;
-  border: none;
-}
+// .theme-toggle-btn {
+//   background: none;
+//   border: none;
+//   cursor: pointer;
+//   position: fixed;
+//   top: 1rem;
+//   // right: 1rem;
+//   // padding: 0.5rem;
+//   // border-radius: 50%;
+//   color: #a0a8c0;
+//   transition: color 0.3s ease;
+//   z-index: 9999;
+//   outline: none;
+//   border: none;
+// }
 
-body.light-mode .theme-toggle-btn {
-  color: #2c3e50;
-}
+// body.light-mode .theme-toggle-btn {
+//   color: #2c3e50;
+// }
 
-.theme-toggle-btn:focus {
-  outline: none;
-  box-shadow: none;
-}
-
-
+// .theme-toggle-btn:focus {
+//   outline: none;
+//   box-shadow: none;
+// }
 
 
 
-body.light-mode {
-  background-color: #f5f5f5;  // رنگ روشن برای پس‌زمینه کل صفحه
-  color: #1a1a1a;             // متن تیره
 
-  // هدر، فوتر، سایدبار، کانتنت
-  .header,
-  footer, .language-switcher, .footer, .personal-info,
-  .page__content, .profile-image , .info-table, .resume-container,
-  .page__sidebar,
-  .page__footer,
-  .page__hero,
-  .masthead,
-  .sidebar {
-    background-color: #ffffff;
-    color: #1a1a1a;
-  }
 
-  // لینک‌ها
-  a {
-    color: #007acc;
+// body.light-mode {
+//   background-color: #f5f5f5;  // رنگ روشن برای پس‌زمینه کل صفحه
+//   color: #1a1a1a;             // متن تیره
 
-    &:hover {
-      color: #005a99;
-    }
-  }
+//   // هدر، فوتر، سایدبار، کانتنت
+//   .header,
+//   footer, .language-switcher, .footer, .personal-info,
+//   .page__content, .profile-image , .info-table, .resume-container,
+//   .page__sidebar,
+//   .page__footer,
+//   .page__hero,
+//   .masthead,
+//   .sidebar {
+//     background-color: #ffffff;
+//     color: #1a1a1a;
+//   }
 
-  // اگر بخوای تغییر رنگ کد بلاک و syntax highlighting هم بدی:
-  pre, code {
-    background-color: #eee;
-    color: #2c3e50;
-  }
-}
+//   // لینک‌ها
+//   a {
+//     color: #007acc;
+
+//     &:hover {
+//       color: #005a99;
+//     }
+//   }
+
+//   // اگر بخوای تغییر رنگ کد بلاک و syntax highlighting هم بدی:
+//   pre, code {
+//     background-color: #eee;
+//     color: #2c3e50;
+//   }
+// }
 
 
 
@@ -593,13 +593,13 @@ border-radius: 4px;
 background-color: #262a35;
 }
 
-.theme-toggle-btn
-{
-text-decoration: none; 
-position: fixed; 
-top: 0.92rem; 
-right: 9.2rem;
-}
+// .theme-toggle-btn
+// {
+// text-decoration: none; 
+// position: fixed; 
+// top: 0.92rem; 
+// right: 9.2rem;
+// }
 
 .footer {
   background-color: #262a35; 

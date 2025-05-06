@@ -5,27 +5,27 @@ permalink: /de/
 author_profile: true
 ---
 
-<div class="lang-en">
+<div class="lang-de">
 <aside class="sidebar">
 <img src="/assets/images/profile.png" alt="Profile" class="profile-image">
 <div class="personal-info">
 
   <table class="info-table">
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Age:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 Years</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Geburtsjahr:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">1985</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Location:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">Tavanir, Tehran</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Anschrift:</strong></td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">Tavanir, Teheran</td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Online CV:</strong></td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Online-Profil:</strong></td>
       <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
     </tr>
       <tr>
 <td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
-  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>Phone:</strong>
+  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>Mobil:</strong>
 </td>
 <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
 
@@ -42,9 +42,9 @@ author_profile: true
   </aside>
     <main class="content">
 <section class="resume-section">
-  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">PROFESSIONAL SUMMARY</h2>
+  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">Berufliches Profil</h2>
   <p class="profile-text" style="text-align: justify; 
-    text-justify: inter-word;
+    text-align: justify;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 100%;
@@ -52,16 +52,13 @@ author_profile: true
     hyphens: auto;
     font-size: 0.9em;
     color: #f5f5f5;">
-    
-    
-Automation Engineer with a strong foundation in electrical engineering and hands-on experience in industrial automation projects, particularly in oil, gas, and petrochemical sectors. Skilled in PLC programming, control panel design, system architecture development, and preparation of technical documents such as I/O lists, control philosophies, and loop diagrams.
 
-Focused on delivering precise and reliable solutions by combining engineering knowledge with a software-driven approach to optimize workflows and create custom tools when needed. Known for attention to detail, structured problem-solving, and a consistent commitment to high technical standards.
+    Der berufliche Werdegang im Bereich Elektrotechnik begann im Jahr 2000, begleitet von akademischer Ausbildung und praktischer Erfahrung in verschiedenen Bereichen der Automatisierungs- und Steuerungstechnik. Auf der Suche nach einer tiefergehenden technischen Herausforderung wurde ein forschungsorientierter Weg eingeschlagen – an der Spitze technologischer Entwicklungen. In dieser Phase konnten wertvolle Einblicke in moderne Werkzeuge und ingenieurwissenschaftliche Methoden gewonnen werden. Auch wenn sich dieser Weg nicht vollständig mit den langfristigen beruflichen Interessen deckte, bleiben die gesammelten Erfahrungen von großem Wert. Derzeit liegt der Fokus darauf, mit neuer Motivation in das ursprüngliche Fachgebiet der Automatisierung und Steuerung zurückzukehren.
   </p>
 </section>
     <!-- Work Experience Section -->
     <section class="resume-section">
-      <h2>WORK EXPERIENCE</h2>
+      <h2>Berufserfahrung</h2>
       
 <div class="experience-item">
   <p class="company" style="margin-bottom: 0.1em;">TU Vienna, Austria</p>

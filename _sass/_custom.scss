@@ -615,17 +615,13 @@ background-color: #262a35;
 
 @media (max-width: 768px) {
   .page {
-    display: flex;
-    flex-direction: column;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
-  .sidebar__wrapper {
-    order: 0;
-    width: 100%;
-  }
-
+  .sidebar__wrapper,
   .page__content {
-    order: 1;
-    width: 100%;
+    float: none !important;
+    width: 100% !important;
   }
 }

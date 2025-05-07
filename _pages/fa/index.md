@@ -11,7 +11,12 @@ author_profile: true
   <div class="personal-info">
     <table class="info-table" style="width: 100%; border-collapse: collapse;">
       <tr>
-        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">1364</td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;" id="number">1364</td>
+        <script>
+          document.getElementById("number").innerText = "1364".replace(/\d/g, function(digit) {
+            return '۰۱۲۳۴۵۶۷۸۹'[digit];
+          });
+        </script>
         <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>سال تولد:</strong></td>
       </tr>
       <tr>
@@ -23,7 +28,12 @@ author_profile: true
         <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>رزومه آنلاین:</strong></td>
       </tr>
       <tr>
-        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;" id="phoneNumber">+98 936 906 6014</td>
+        <script>
+          document.getElementById("phoneNumber").innerText = document.getElementById("phoneNumber").innerText.replace(/\d/g, function(digit) {
+            return '۰۱۲۳۴۵۶۷۸۹'[digit];
+          });
+        </script>
         <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;">
           <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>شماره تماس:</strong>
         </td>
@@ -55,7 +65,7 @@ author_profile: true
     margin: 0 auto;
     max-width: 95%;
     word-spacing: -0.05em;
-    font-size: 0.85em;
+    font-size: 0.9em;
     color: #f5f5f5;
     font-family: 'Vazir', sans-serif;
     direction: rtl;">
@@ -66,13 +76,13 @@ author_profile: true
 
     <!-- Work Experience Section -->
 <section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5; margin-bottom: 2em;">
-  <h2 style="font-size: 1.3em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
+  <h2 style="font-size: 1.1em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
 
 <div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
-  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
+  <p class="company" style="margin-bottom: 0.2em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.4em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
-  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+  <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
     <li>طراحی و پیاده‌سازی سیستم‌های پیشرفته کنترل صنعتی با استفاده از پلتفرم‌های PLC و DCS، با تمرکز ویژه بر قابلیت اطمینان، مقیاس‌پذیری و یکپارچگی با نیازهای فرآیندهای زمان واقعی. تجربه عملی با سری Siemens S7-400 و معماری‌های تغذیه ریداندنت.</li>
     <li>انتخاب و پیکربندی راه‌حل‌های سخت‌افزاری و نرم‌افزاری بهینه متناسب با سناریوهای مختلف کنترل فرآیند صنعتی، با تأکید بر مقرون به صرفه بودن و انطباق با مشخصات مشتری و استانداردهای صنعتی.</li>
     <li>تهیه مستندات فنی جامع، از جمله دیاگرام‌های لوپ، P&ID‌ها، نقشه‌های معماری سیستم، شماتیک‌های سیم‌کشی و راهنماهای عملیاتی دقیق — که ارتباط بی‌وقفه بین تیم‌های مهندسی، راه‌اندازی و عملیات را ممکن می‌سازد.</li>
@@ -131,7 +141,7 @@ author_profile: true
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 0 0 35%; font-weight: bold;">کارشناسی ارشد انرژی و اتوماسیون</div>
       <div style="flex: 0 0 60%; text-align: right;">
-        <div>دانشگاه فناوری وین (TU Wien)</div>
+        <div>دانشگاه فنی وین (TU Wien)</div>
         <div>۲۰۱۵ - ۲۰۱۹</div>
       </div>
     </div>
@@ -163,7 +173,7 @@ author_profile: true
   </div>
 </section>
 
-<section class="resume-section" style="margin-bottom: 1.4rem; direction: rtl; font-family: 'Vazirmatn', sans-serif;">
+<section class="resume-section" style="margin-bottom: 1.4rem; direction: rtl; font-family: 'Vazir', sans-serif;">
   <h2 style="font-size: 1.07rem; margin-bottom: 1.1rem;">مهارت‌ها</h2>
 
   <div style="display: flex; flex-direction: column; font-size: 0.73rem;">
@@ -245,7 +255,7 @@ author_profile: true
 
 
 <!-- Projects Section -->
-<section class="resume-section" style="margin-bottom: 1.2rem; direction: rtl; font-family: 'Vazirmatn', sans-serif;">
+<section class="resume-section" style="margin-bottom: 1.2rem; direction: rtl; font-family: 'Vazir', sans-serif;">
   <h2 style="font-size: 0.93rem; margin-bottom: 1rem;">پروژه‌های کلیدی حرفه‌ای</h2>
 
   <ul style="padding-right: 0; list-style-type: none; font-size: 0.63rem; text-align: justify;">

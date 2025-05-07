@@ -51,12 +51,9 @@ author_profile: true
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
-    color: #f5f5f5;">
-    
-    
-Automation Engineer with a strong foundation in electrical engineering and hands-on experience in industrial automation projects, particularly in oil, gas, and petrochemical sectors. Skilled in PLC programming, control panel design, system architecture development, and preparation of technical documents such as I/O lists, control philosophies, and loop diagrams.
+    color: #f5f5f5;">   
 
-Focused on delivering precise and reliable solutions by combining engineering knowledge with a software-driven approach to optimize workflows and create custom tools when needed. Known for attention to detail, structured problem-solving, and a consistent commitment to high technical standards.
+    A professional path in electrical engineering began in 2000, accompanied by academic studies and hands-on experience in various sectors of automation and control. In pursuit of a deeper technical challenge, a transition was made into research at the forefront of technology. This phase offered valuable exposure to modern engineering tools and a broader technical perspective. Although the research track did not fully align with long-term professional interests, the insights and skills gained remain significant. Efforts are now directed toward returning to the core field of automation and control with renewed focus and commitment.
   </p>
 </section>
     <!-- Work Experience Section -->

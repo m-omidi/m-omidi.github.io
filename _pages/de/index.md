@@ -66,12 +66,13 @@ author_profile: true
   <p class="duration" style="margin-top: 0;">2018 – 2022 (4 Jahre und 5 Monate)</p>
   <ul class="responsibilities">
   <li>
-Modellierung des dynamischen Verhaltens von Isolationssystemen elektrischer Maschinen unter hochfrequenter Impulsbeanspruchung durch SiC-basierte Leistungselektronik, mit Fokus auf Teilentladung und Isolationsdurchschlag.</li>
+
+Untersuchung und Simulation des dynamischen Verhaltens von Isolationssystemen elektrischer Maschinen bei Belastung durch schnelle Spannungspulse, mit Fokus auf Entladungen und Isolationsversagen.</li>
   <li>
-Bewertung verschiedener Isoliermaterialien und -konfigurationen zur Identifikation von Ausfallmechanismen und zur Optimierung von Zuverlässigkeit, Leistung und Lebensdauer unter elektrischer und klimatischer Belastung.</li>
-  <li>Durchführung detaillierter Simulationen mit MATLAB/Simulink zur Analyse des Isolationsverhaltens bei wechselnden Temperaturen, Luftfeuchtigkeit und Schaltfrequenzen.</li>
-  <li>
-Kombination analytischer Modellierung mit praktischem Designverständnis zur Verbesserung von Isolationsstrategien und datenbasierter Validierung im Hochspannungsmaschinenbau.</li>
+Analyse und Bewertung von Isolierstoffen und Systemkonzepten zur Erkennung typischer Ausfallursachen und zur Verbesserung von Betriebszuverlässigkeit, Effizienz und Lebensdauer unter elektrischen und klimatischen Einflüssen.
+</li>
+  <li>Simulation des Isolationsverhaltens unter variablen thermischen und elektrischen Bedingungen mit MATLAB/Simulink zur präzisen Bewertung von Materialreaktionen.</li>
+  <li>Verknüpfung analytischer Modelle mit praxisorientierten Designansätzen zur Weiterentwicklung von Isolationskonzepten und zur datenbasierten Validierung im Bereich Hochspannungsmaschinen.</li>
 </ul>
 
 </div>
@@ -86,8 +87,8 @@ Entwicklung und Umsetzung fortschrittlicher industrieller Steuerungssysteme mit 
 
 </li>
     <li>Auswahl und Konfiguration optimaler Hard- und Softwarelösungen entsprechend der spezifischen Anforderungen von Prozessanlagen unter Berücksichtigung von Kosten und Normen.</li>
-    <li>Erstellung umfassender technischer Dokumentationen, einschließlich Loop-Diagrammen, R&I-Fließbildern, Systemarchitekturen, Verdrahtungsplänen und Bedienungsanleitungen.
-
+    <li>
+Ausarbeitung technischer Unterlagen wie Loop-Diagramme, R&I-Schemata, Systemarchitekturen, Schaltpläne und ausführliche Bedienungsanleitungen.
 </li>
     <li>
 Entwicklung von Automatisierungstools in Python und C#, zur Erstellung von Loop-Diagrammen aus I/O-Daten und zur Prozessoptimierung in der Dokumentation und Systemkonfiguration.
@@ -118,8 +119,7 @@ Entwicklung von Automatisierungstools in Python und C#, zur Erstellung von Loop-
 Entwurf und Umsetzung von elektrischen Schaltkreisen und Steuerungssystemen für Hochgeschwindigkeitsmaschinen gemäß technischen Spezifikationen.</li>
       <li>Auswahl und Beschaffung geeigneter elektrischer Komponenten, Schaltschränke und Verdrahtungslösungen.</li>
       <li>Durchführung von Installationen, Verdrahtungen und Inbetriebnahmen in industriellen Fertigungsanlagen.</li>
-      <li>
-Zusammenarbeit mit mechanischen und messtechnischen Teams zur Integration interdisziplinärer Systeme und zur Leistungsoptimierung von Maschinen.</li>
+      <li>Zusammenarbeit mit Fachabteilungen zur Einbindung technischer Teilsysteme und zur Optimierung des Gesamtverhaltens industrieller Anlagen.</li>
     </ul>
   </div>
 <!-- Add other work experiences in the same format -->
@@ -268,9 +268,9 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
 </section>
 
 <!-- About Me Section -->
-<!-- About Me Section -->
 <section class="resume-section">
   <h2>ABOUT ME</h2>
+
   <p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
@@ -280,7 +280,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    A technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped the view of engineering as a practical craft closely tied to real-world challenges.
+    Mein technischer Weg begann in der Berufsschule, wo eine praxisorientierte Ausbildung im Bereich Elektrotechnik die Grundlage für eine lösungsorientierte Denkweise bildete. Die frühzeitige Auseinandersetzung mit industriellen Systemen lehrte mich, dass Ingenieurwissenschaften nicht nur eine Ansammlung von Formeln sind, sondern ein handwerklicher Prozess, der fest mit den Herausforderungen der realen Welt verbunden ist.
   </p>
 
   <p style="text-align: justify;
@@ -292,7 +292,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Over the years, a range of technical projects across different sectors provided the opportunity to develop adaptability, collaboration, and a focus on delivering reliable solutions. Gradually, it became clear that true expertise lies not only in collecting skills but in anticipating potential errors and maintaining the discipline to prevent them.
+    Mit der Zeit boten mir verschiedene technische Projekte in Bereichen wie Öl, Gas und Petrochemie die Möglichkeit, Anpassungsfähigkeit, Teamarbeit und den Fokus auf die Lieferung robuster Lösungen zu entwickeln. Ich erkannte zunehmend, dass wahre technische Kompetenz nicht nur im Sammeln von Fähigkeiten liegt, sondern auch im Vorhersehen potenzieller Fehler und der Disziplin, diese zu vermeiden.
   </p>
 
   <p style="text-align: justify;
@@ -304,7 +304,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    At a certain stage, a transition toward academic research took place through joining a university setting abroad. This step reflected a strong technical and analytical interest and broadened perspectives. However, over time, the deeper motivation remained rooted in engineering practice and system-level problem-solving.
+    Ein späterer Übergang in die akademische Forschung im Ausland half mir, mein analytisches Denken zu schärfen und meine technische Perspektive zu erweitern. Doch was im Kern blieb, war das tief verwurzelte Interesse an systemorientierter Problemlösung und Ingenieurpraxis als Mittel zur Schaffung praktischer und nachhaltiger Lösungen.
   </p>
 
   <p style="text-align: justify;
@@ -316,7 +316,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Returning home brought a wider perspective, blending practical knowledge with international experience, while maintaining a disciplined and solution-driven approach at the core of all work. Particular interest is given to unique and technically challenging projects, as well as a continuous appreciation for the depth and beauty of mathematics.
+    Die Rückkehr in meine Heimat brachte weitere Klarheit: Die Kombination aus praktischer Erfahrung und einem erweiterten globalen Blick kann meine Arbeit noch präziser und kollaborativer gestalten. Besonders anziehend finde ich technisch anspruchsvolle Projekte, bei denen Präzision, Tiefe und Kreativität zusammenkommen.
   </p>
 
   <p style="text-align: justify;
@@ -328,7 +328,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    The last point is that this resume is written based on the positions I am targeting. However, I have also gained experience in non-technical fields, the outcome of which can be seen in the Soft Skills section.
+    Neben Ingenieurwissenschaften habe ich ein großes Interesse an menschlichen Systemen, strukturiertem Denken sowie an der zugrunde liegenden Schönheit der Mathematik und Logik entwickelt. Mein beruflicher Werdegang umfasst auch Erfahrungen außerhalb technischer Grenzen – diese spiegeln sich in meinen Kommunikations-, Organisations- und Lernfähigkeiten wider.
   </p>
 
   <p style="text-align: justify;
@@ -340,7 +340,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    My experience of moving across borders and the challenges tied to it adds a layer of complexity to my journey. This aspect of my background could be elaborated upon further in a conversation, should it be necessary, as it carries nuances that might better be explored through discussion.
+    Der Wechsel zwischen verschiedenen Ländern und die damit verbundenen Herausforderungen verleihen meinem Werdegang eine zusätzliche Dimension. Diese Schichten meiner Erfahrung lassen sich nicht immer auf einer Seite darstellen, sie kommen jedoch oft in der Art und Weise zum Tragen, wie ich an die Arbeit herangehe.
   </p>
 
   <p style="text-align: justify;
@@ -352,6 +352,6 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
+    Ich suche derzeit nach neuen Möglichkeiten als Automatisierungsingenieur – sei es in Festanstellung, projektbasierten Aufgaben oder technisch anspruchsvollen Umfeldern, die Wert auf Tiefe, Zuverlässigkeit und disziplinierte Ausführung legen. Zögern Sie nicht, mich zu kontaktieren.
   </p>
 </section>

@@ -254,90 +254,90 @@ author_profile: true
 </section>
 
 <!-- About Me Section -->
-<!-- About Me Section -->
 <section class="resume-section">
-  <h2>ABOUT ME</h2>
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <h2 style="font-family: 'Vazir', sans-serif; text-align: right;">درباره من</h2>
+
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; /* اندازه قلم یکسان برای تمام خطوط */
     color: #ffffff;">
-    A technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped the view of engineering as a practical craft closely tied to real-world challenges.
+    مسیر فنی من از مدرسه فنی آغاز شد، جایی که آموزش عملی در زمینه مهندسی برق پایه‌گذار یک ذهنیت حل‌مسئله و عملی بود. آشنایی اولیه با سیستم‌های صنعتی دیدگاه من را نسبت به مهندسی به عنوان یک حرفه عملی، که به چالش‌های دنیای واقعی مرتبط است، شکل داد.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    Over the years, a range of technical projects across different sectors provided the opportunity to develop adaptability, collaboration, and a focus on delivering reliable solutions. Gradually, it became clear that true expertise lies not only in collecting skills but in anticipating potential errors and maintaining the discipline to prevent them.
+    با گذشت زمان، پروژه‌های فنی مختلف در صنایع گوناگون به من این فرصت را دادند که انعطاف‌پذیری، همکاری و تمرکز بر ارائه راه‌حل‌های پایدار را توسعه دهم. به تدریج متوجه شدم که تخصص واقعی نه تنها در جمع‌آوری مهارت‌ها، بلکه در پیش‌بینی خطاهای احتمالی و حفظ انضباط برای جلوگیری از آن‌ها است.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    At a certain stage, a transition toward academic research took place through joining a university setting abroad. This step reflected a strong technical and analytical interest and broadened perspectives. However, over time, the deeper motivation remained rooted in engineering practice and system-level problem-solving.
+    در یک مقطع زمانی، انتقال به تحقیقاتی دانشگاهی در خارج از کشور صورت گرفت که نشان‌دهنده علاقه فنی و تحلیلی قوی بود و افق دید من را گسترش داد. با این حال، در گذر زمان، انگیزه عمیق‌تر من همچنان ریشه در مهندسی عملی و حل‌مسئله در سطح سیستم داشت.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    Returning home brought a wider perspective, blending practical knowledge with international experience, while maintaining a disciplined and solution-driven approach at the core of all work. Particular interest is given to unique and technically challenging projects, as well as a continuous appreciation for the depth and beauty of mathematics.
+    بازگشت به وطن دیدگاه وسیع‌تری به من داد، ترکیب دانش عملی با تجربه بین‌المللی و در عین حال حفظ رویکرد منضبط و حل‌مسئله‌ای در مرکز تمامی کارها. علاقه ویژه‌ای به پروژه‌های فنی منحصر به فرد و چالش‌برانگیز دارم و همواره از عمق و زیبایی ریاضیات قدردانی می‌کنم.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    The last point is that this resume is written based on the positions I am targeting. However, I have also gained experience in non-technical fields, the outcome of which can be seen in the Soft Skills section.
+    علاوه بر مهندسی، علاقه زیادی به سیستم‌های انسانی، تفکر ساختاریافته و زیبایی‌های ریاضیات و منطق دارم. تجربه‌های من در زمینه‌های غیر فنی نیز در بخش مهارت‌های نرم قابل مشاهده است.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 1em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    My experience of moving across borders and the challenges tied to it adds a layer of complexity to my journey. This aspect of my background could be elaborated upon further in a conversation, should it be necessary, as it carries nuances that might better be explored through discussion.
+    تجربه‌ام در جابجایی بین کشورها و چالش‌های مرتبط با آن لایه‌ای دیگر به مسیر من اضافه کرده است. این جنبه از پیشینه‌ام را می‌توان در گفتگوها به‌طور مفصل‌تر بررسی کرد، چرا که حاوی نکاتی است که شاید بهتر باشد از طریق بحث و تبادل نظر مورد بررسی قرار گیرد.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 2em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
+  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
+    text-justify: inter-word; 
+    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
+    margin: 0 auto 2em auto; 
+    max-width: 100%; 
+    word-spacing: -0.05em; 
+    hyphens: auto; 
+    font-size: 0.8em; 
     color: #ffffff;">
-    Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
+    در حال حاضر به دنبال فرصت‌های جدید به‌عنوان مهندس اتوماسیون هستم، با آمادگی برای همکاری در پروژه‌های بلندمدت، ماموریت‌های پروژه‌ای یا همکاری‌های مهندسی تخصصی. لطفاً در صورت وجود فرصت مناسب با من تماس بگیرید.
   </p>
 </section>

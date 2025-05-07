@@ -79,7 +79,7 @@ Analyse und Bewertung von Isolierstoffen und Systemkonzepten zur Erkennung typis
 
 <div class="experience-item">
  <p class="company" style="margin-bottom: 0.1em;">Schmuck Technology GmbH, Österreich</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Automatisierungstechniker/h3>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Automatisierungstechniker</h3>
   <p class="duration" style="margin-top: 0;">2015 – 2018 (3 Jahre und 4 Monate)</p>
   <ul class="responsibilities">
     <li>

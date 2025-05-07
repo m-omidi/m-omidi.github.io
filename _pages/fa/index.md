@@ -6,338 +6,330 @@ author_profile: true
 ---
 
 <div class="lang-en">
-<aside class="sidebar">
-<img src="/assets/images/profile.png" alt="Profile" class="profile-image">
-<div class="personal-info">
-
-  <table class="info-table">
-    <tr>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 سال</td>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>سن:</strong></td>
-    </tr>
-    <tr>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">تهران- توانیر</td>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>محل سکونت:</strong></td>
-    </tr>
-    <tr>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>رزومه آنلاین:</strong></td>
-    </tr>
+<aside class="sidebar" style="font-family: 'Vazir', sans-serif; text-align: right;">
+  <img src="/assets/images/profile.png" alt="Profile" class="profile-image" style="display: block; margin: 0 auto;">
+  <div class="personal-info">
+    <table class="info-table" style="width: 100%; border-collapse: collapse;">
       <tr>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
-        <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>شماره تماس:</strong>
-      </td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">1364</td>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>سال تولد:</strong></td>
+      </tr>
+      <tr>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">تهران- توانیر</td>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>محل سکونت:</strong></td>
+      </tr>
+      <tr>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>رزومه آنلاین:</strong></td>
+      </tr>
+      <tr>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;">
+          <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>شماره تماس:</strong>
+        </td>
+      </tr>
+      <tr>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
+        <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;">
+          <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>آدرس ایمیل:</strong>
+        </td>
+      </tr>
+    </table>
+  </div>
+</aside>
 
-  </tr>
-   <tr>
-   <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
-    <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;">
-      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>آدرس ایمیل:</strong>
-    </td>
-   </tr>
 
-  </table>
-</div>
-  </aside>
     <main class="content">
-<section class="resume-section">
-  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">معرفی کوتاه</h2>
-  <p class="profile-text" style="text-align: justify; 
+<section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl;">
+  <h2 style="
+    margin-bottom: 0.8em;
+    font-size: 1.1em;
+    color: #c3e550;
+    font-family: 'Vazir', sans-serif;
+  ">معرفی کوتاه</h2>
+
+  <p class="profile-text" style="
+    text-align: justify;
     text-justify: inter-word;
-    line-height: 1.6;
+    line-height: 2;
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 95%;
     word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #f5f5f5;">
-    
+    font-size: 0.85em;
+    color: #f5f5f5;
+    font-family: 'Vazir', sans-serif;
+    direction: rtl;">
     
 فعالیت حرفه‌ای در حوزه مهندسی برق از سال ۱۳۷۹ آغاز شد و هم‌زمان با ادامه تحصیلات دانشگاهی، تجربه عملی در بخش‌های مختلف اتوماسیون و کنترل به‌دست آمد. چندی بعد، با هدف مواجهه با چالشی تخصصی‌تر، مسیر پژوهش در لبه فناوری دنبال شد. در این دوره، دیدگاه مهندسی تقویت و آشنایی با ابزارها و روش‌های نوین حاصل شد. با وجود آن‌که مسیر تحقیقاتی در نهایت با علایق شغلی کاملاً هم‌راستا نبود، دستاوردهای فکری و فنی این تجربه ارزشمند باقی ماند. اکنون، پس از یک وقفه کوتاه، تمرکز بر بازگشت به حوزه اصلی اتوماسیون و کنترل با انگیزه‌ای دوچندان قرار گرفته است.
   </p>
 </section>
+
     <!-- Work Experience Section -->
-    <section class="resume-section">
-      <h2>WORK EXPERIENCE</h2>
-      
-<div class="experience-item">
-  <p class="company" style="margin-bottom: 0.1em;">TU Vienna, Austria</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Research Assistant</h3>
-  <p class="duration" style="margin-top: 0;">2018 - 2022 (4 years and 5 months)</p>
-  <ul class="responsibilities">
-  <li>Modeled the dynamic behavior of electrical machine insulation systems under high-frequency pulse stress generated by SiC-based power electronics, with emphasis on partial discharge and insulation breakdown mechanisms.</li>
-  <li>Evaluated a range of insulation materials and configurations to identify failure modes and optimize system reliability, performance, and service life under electrical and environmental stress.</li>
-  <li>Performed in-depth simulation and analysis using MATLAB/Simulink to assess insulation behavior under varying temperature, humidity, and high-frequency switching conditions.</li>
-  <li>Integrated analytical modeling with practical design insights to improve insulation strategies and contribute to data-driven design validation in high-voltage electrical machines.</li>
-</ul>
+<section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5; margin-bottom: 2em;">
+  <h2 style="font-size: 1.3em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
 
-</div>
-
-<div class="experience-item">
- <p class="company" style="margin-bottom: 0.1em;">Schmuck Technology GmbH, Austria</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Technical Expert</h3>
-  <p class="duration" style="margin-top: 0;">2015 - 2018 (3 years 4 months)</p>
-  <ul class="responsibilities">
-    <li>Designed and implemented advanced industrial control systems using PLC and DCS platforms, with a strong focus on reliability, scalability, and integration with real-time process requirements. Hands-on experience with Siemens S7-400 series and redundant power architectures.</li>
-    <li>Selected and configured optimal hardware and software solutions tailored to diverse industrial process control scenarios, ensuring cost-effectiveness and compliance with client specifications and industry standards.</li>
-    <li>Authored comprehensive technical documentation, including loop diagrams, P&IDs, system architecture drawings, wiring schematics, and detailed operation manuals — enabling seamless communication between engineering, commissioning, and operations teams.</li>
-    <li>Bridged engineering with software development, creating custom tools in Python and C# to automate documentation processes, generate loop diagrams from I/O data, and facilitate faster and more accurate system configuration.</li>
-  </ul>
-</div>
-
-<div class="experience-item">
-  <p class="company" style="margin-bottom: 0.1em;">Arvandan Oil & Gas Company, Iran</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Maintenance & Instrumentation Supervisor</h3>
-  <p class="duration" style="margin-top: 0;">November 2012 until January 2014 (1 year and 2 months)</p>
-  <ul class="responsibilities">
-    <li>Led troubleshooting and root cause analysis for instrumentation and electrical systems in complex industrial environments, ensuring minimal downtime and optimal system performance.</li>
-    <li>Supervised and coordinated maintenance team activities, providing technical guidance, task prioritization, and performance monitoring to maintain safety, efficiency, and compliance.</li>
-    <li>Planned and executed periodic inspections and diagnostics of electrical and control equipment to evaluate operational health and anticipate maintenance requirements.</li>
-    <li>Developed preventive and predictive maintenance strategies based on condition monitoring and equipment history, reducing unplanned outages and extending asset life cycle.</li>
+<div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
+  <p class="duration" style="margin-top: 0; font-size: 0.85em;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
+  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+    <li>طراحی و پیاده‌سازی سیستم‌های پیشرفته کنترل صنعتی با استفاده از پلتفرم‌های PLC و DCS، با تمرکز ویژه بر قابلیت اطمینان، مقیاس‌پذیری و یکپارچگی با نیازهای فرآیندهای زمان واقعی. تجربه عملی با سری Siemens S7-400 و معماری‌های تغذیه ریداندنت.</li>
+    <li>انتخاب و پیکربندی راه‌حل‌های سخت‌افزاری و نرم‌افزاری بهینه متناسب با سناریوهای مختلف کنترل فرآیند صنعتی، با تأکید بر مقرون به صرفه بودن و انطباق با مشخصات مشتری و استانداردهای صنعتی.</li>
+    <li>تهیه مستندات فنی جامع، از جمله دیاگرام‌های لوپ، P&ID‌ها، نقشه‌های معماری سیستم، شماتیک‌های سیم‌کشی و راهنماهای عملیاتی دقیق — که ارتباط بی‌وقفه بین تیم‌های مهندسی، راه‌اندازی و عملیات را ممکن می‌سازد.</li>
+    <li>ایجاد پل ارتباطی میان مهندسی و توسعه نرم‌افزار، با ساخت ابزارهای سفارشی در Python و C# برای خودکارسازی فرآیندهای مستندسازی، تولید دیاگرام‌های لوپ از داده‌های I/O و تسهیل در پیکربندی سریع‌تر و دقیق‌تر سیستم.</li>
   </ul>
 </div>
 
 
-    <div class="experience-item">
-    <p class="company" style="margin-bottom: 0.1em;">Widder Industrial Group, Iran</p>
-    <h3 style="margin-top: 0; margin-bottom: 0.1em;">Industrial Electrical & Control Technician</h3>
-    <p class="duration" style="margin-top: 0;">July 2005 – November 2010 (5 years 4 months)</p>
-    <ul class="responsibilities">
-      <li>Designed and implemented electrical circuits and control systems for high-speed industrial machinery, ensuring compliance with technical specifications and industry standards.</li>
-      <li>Selected and sourced suitable electrical components, panels, and wiring systems based on functional requirements, durability, and cost-efficiency.</li>
-      <li>Performed hands-on installation, wiring, and commissioning of electrical systems and automated controls in manufacturing and industrial settings.</li>
-      <li>Collaborated with mechanical and instrumentation teams to integrate multidisciplinary systems and optimize machine performance and reliability.</li>
-    </ul>
-  </div>
+
+
+
+<div class="experience-item-fa" style="margin-bottom: 2em;">
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
+  <p class="duration" style="margin-top: 0; font-size: 0.85em;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
+  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+    <li>طراحی و پیاده‌سازی سیستم‌های پیشرفته کنترل صنعتی با استفاده از پلتفرم‌های PLC و DCS، با تمرکز ویژه بر قابلیت اطمینان، مقیاس‌پذیری و یکپارچگی با نیازهای فرآیندهای زمان واقعی. تجربه عملی با سری Siemens S7-400 و معماری‌های تغذیه ریداندنت.</li>
+    <li>انتخاب و پیکربندی راه‌حل‌های سخت‌افزاری و نرم‌افزاری بهینه متناسب با سناریوهای مختلف کنترل فرآیند صنعتی، با تأکید بر مقرون به صرفه بودن و انطباق با مشخصات مشتری و استانداردهای صنعتی.</li>
+    <li>تهیه مستندات فنی جامع، از جمله دیاگرام‌های لوپ، P&ID‌ها، نقشه‌های معماری سیستم، شماتیک‌های سیم‌کشی و راهنماهای عملیاتی دقیق — که ارتباط بی‌وقفه بین تیم‌های مهندسی، راه‌اندازی و عملیات را ممکن می‌سازد.</li>
+    <li>ایجاد پل ارتباطی میان مهندسی و توسعه نرم‌افزار، با ساخت ابزارهای سفارشی در Python و C# برای خودکارسازی فرآیندهای مستندسازی، تولید دیاگرام‌های لوپ از داده‌های I/O و تسهیل در پیکربندی سریع‌تر و دقیق‌تر سیستم.</li>
+  </ul>
+</div>
+
+
+<div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت نفت و گاز اروندان، ایران</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">سرپرست تعمیرات و ابزار دقیق</h3>
+  <p class="duration" style="margin-top: 0; font-size: 0.85em;">نوامبر ۲۰۱۲ تا ژانویه ۲۰۱۴ (۱ سال و ۲ ماه)</p>
+  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+    <li>رهبری عملیات عیب‌یابی و تحلیل ریشه‌ای خرابی‌ها در سامانه‌های ابزار دقیق و برق در محیط‌های صنعتی پیچیده، با هدف کاهش زمان توقف و افزایش کارایی سیستم.</li>
+    <li>نظارت و هماهنگی فعالیت‌های تیم تعمیرات، ارائه راهنمایی فنی، اولویت‌بندی وظایف و پایش عملکرد به منظور حفظ ایمنی، بهره‌وری و انطباق با استانداردها.</li>
+    <li>برنامه‌ریزی و اجرای بازدیدهای دوره‌ای و آزمون‌های تشخیصی تجهیزات برق و کنترل جهت ارزیابی وضعیت عملیاتی و پیش‌بینی نیازهای تعمیراتی.</li>
+    <li>تدوین راهبردهای نگهداری پیشگیرانه و پیش‌بینانه بر اساس پایش وضعیت و سوابق عملکرد تجهیزات، به‌منظور کاهش توقف‌های ناخواسته و افزایش طول عمر دارایی‌ها.</li>
+  </ul>
+</div>
+
+<div class="experience-item" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">گروه صنعتی ویدر، ایران</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">تکنسین برق صنعتی و کنترل</h3>
+  <p class="duration" style="margin-top: 0; font-size: 0.85em;">جولای ۲۰۰۵ تا نوامبر ۲۰۱۰ (۵ سال و ۴ ماه)</p>
+  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+    <li>طراحی و اجرای مدارهای برق و سامانه‌های کنترلی برای ماشین‌آلات صنعتی پرسرعت با رعایت مشخصات فنی و استانداردهای صنعتی.</li>
+    <li>انتخاب و تأمین قطعات برق، تابلوها و سامانه‌های سیم‌کشی متناسب با نیازهای عملکردی، دوام و به‌صرفه بودن اقتصادی.</li>
+    <li>نصب، سیم‌کشی و راه‌اندازی عملی سیستم‌های برقی و کنترل خودکار در محیط‌های صنعتی و تولیدی.</li>
+    <li>همکاری با تیم‌های مکانیک و ابزار دقیق برای یکپارچه‌سازی سیستم‌ها و بهینه‌سازی عملکرد و قابلیت اطمینان ماشین‌آلات.</li>
+  </ul>
+</div>
+
 <!-- Add other work experiences in the same format -->
-<section class="resume-section">
-  <h2 style="font-size: 1rem; margin-bottom: 1rem;">EDUCATION</h2>
+<section class="resume-section" style="direction: rtl; text-align: right; font-family: 'Vazir', sans-serif; color: #f5f5f5;">
+  <h2 style="font-size: 1.15rem; margin-bottom: 1rem;">تحصیلات</h2>
 
-  <div style="display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.68rem;">
+  <div style="display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.78rem;">
 
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">Master of Energy & Automation</div>
-      <div style="flex: 0 0 60%; text-align: left;">
-        <div>Vienna University of Technology</div>
-        <div>2015 - 2019</div>
+      <div style="flex: 0 0 35%; font-weight: bold;">کارشناسی ارشد انرژی و اتوماسیون</div>
+      <div style="flex: 0 0 60%; text-align: right;">
+        <div>دانشگاه فناوری وین (TU Wien)</div>
+        <div>۲۰۱۵ - ۲۰۱۹</div>
       </div>
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">Bachelor of Electrical Engineering</div>
-      <div style="flex: 0 0 60%; text-align: left;">
-        <div>Azad University South-Tehran Branch</div>
-        <div>2006 - 2010</div>
+      <div style="flex: 0 0 35%; font-weight: bold;">کارشناسی مهندسی برق</div>
+      <div style="flex: 0 0 60%; text-align: right;">
+        <div>دانشگاه آزاد اسلامی واحد تهران جنوب</div>
+        <div>۲۰۰۶ - ۲۰۱۰</div>
       </div>
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">Associate Degree in Electrical Engineering</div>
-      <div style="flex: 0 0 60%; text-align: left;">
-        <div>Technical and Vocational College of Babol</div>
-        <div>2002 - 2005</div>
+      <div style="flex: 0 0 35%; font-weight: bold;">کاردانی مهندسی برق</div>
+      <div style="flex: 0 0 60%; text-align: right;">
+        <div>دانشکده فنی و حرفه‌ای بابل</div>
+        <div>۲۰۰۲ - ۲۰۰۵</div>
       </div>
     </div>
 
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">Diploma in Industrial Electricity</div>
-      <div style="flex: 0 0 60%; text-align: left;">
-        <div>Razi Technical High School</div>
-        <div>2000 - 2002</div>
+      <div style="flex: 0 0 35%; font-weight: bold;">دیپلم برق صنعتی</div>
+      <div style="flex: 0 0 60%; text-align: right;">
+        <div>هنرستان فنی رازی</div>
+        <div>۲۰۰۰ - ۲۰۰۲</div>
       </div>
     </div>
 
   </div>
 </section>
 
+<section class="resume-section" style="margin-bottom: 1.4rem; direction: rtl; font-family: 'Vazirmatn', sans-serif;">
+  <h2 style="font-size: 1.07rem; margin-bottom: 1.1rem;">مهارت‌ها</h2>
 
-<section class="resume-section" style="margin-bottom: 1.2rem;">
-  <h2 style="font-size: 1rem; margin-bottom: 1rem;">SKILLS</h2>
-
-  <div style="display: flex; flex-direction: column; font-size: 0.68rem;">
+  <div style="display: flex; flex-direction: column; font-size: 0.73rem;">
 
     <!-- Programming -->
-    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Programming</h3>
+    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">برنامه‌نویسی</h3>
 
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">MATLAB (Advanced)</span>
-      <span style="flex: 0 0 60%;">Scientific computing, data analysis, and modeling.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">MATLAB (پیشرفته)</span>
+      <span style="flex: 0 0 60%;">محاسبات علمی، تحلیل داده و مدل‌سازی.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">C# (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Desktop applications and system integration.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">C# (متوسط)</span>
+      <span style="flex: 0 0 60%;">برنامه‌های دسکتاپ و یکپارچه‌سازی سیستمی.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Python (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Data analysis, automation, and software development.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Python (متوسط)</span>
+      <span style="flex: 0 0 60%;">تحلیل داده، اتوماسیون و توسعه نرم‌افزار.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">JavaScript (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Web development and dynamic content scripting.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">JavaScript (متوسط)</span>
+      <span style="flex: 0 0 60%;">توسعه وب و اسکریپت‌نویسی محتوای پویا.</span>
     </div>
 
     <!-- Software -->
-    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Software</h3>
+    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">نرم‌افزارها</h3>
 
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">AutoCAD Electrical (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Electrical schematics and control layouts.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">AutoCAD Electrical (متوسط)</span>
+      <span style="flex: 0 0 60%;">نقشه‌های برق و طراحی مدارهای کنترلی.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">ePLAN (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Electrical system design and wiring diagrams.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">ePLAN (متوسط)</span>
+      <span style="flex: 0 0 60%;">طراحی سیستم‌های برقی و دیاگرام سیم‌کشی.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Simatic Manager (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Siemens PLCs configuration and programming.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Simatic Manager (متوسط)</span>
+      <span style="flex: 0 0 60%;">پیکربندی و برنامه‌نویسی PLC زیمنس.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Rockwell Studio 5000 (Intermediate)</span>
-      <span style="flex: 0 0 60%;">Rockwell automation systems programming.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">Rockwell Studio 5000 (متوسط)</span>
+      <span style="flex: 0 0 60%;">برنامه‌نویسی سیستم‌های اتوماسیون راک‌ول.</span>
     </div>
 
     <!-- Language -->
-    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Language</h3>
+    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">زبان‌ها</h3>
 
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Persian</span>
-      <span style="flex: 0 0 60%;">Native</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">فارسی</span>
+      <span style="flex: 0 0 60%;">زبان مادری</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">English</span>
-      <span style="flex: 0 0 60%;">Advanced, fluent in professional technical communication.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">انگلیسی</span>
+      <span style="flex: 0 0 60%;">پیشرفته، مسلط در مکاتبات فنی و تخصصی.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 1rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">German</span>
-      <span style="flex: 0 0 60%;">Advanced, effective communication in technical and casual settings.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">آلمانی</span>
+      <span style="flex: 0 0 60%;">پیشرفته، تسلط در ارتباطات فنی و روزمره.</span>
     </div>
 
-    <!-- Soft -->
-    <h3 style="font-size: 0.8rem; margin: 0.6rem 0 0.4rem; color: #3498db;">Soft Skills</h3>
+    <!-- Soft Skills -->
+    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">مهارت‌های نرم</h3>
 
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Problem Solving</span>
-      <span style="flex: 0 0 60%;">Analytical approach to identifying and resolving issues efficiently.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">حل مسئله</span>
+      <span style="flex: 0 0 60%;">رویکرد تحلیلی برای شناسایی و حل سریع چالش‌ها.</span>
     </div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Team Collaboration</span>
-      <span style="flex: 0 0 60%;">Effective communication and cooperation within multidisciplinary teams.</span>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
+      <span style="flex: 0 0 35%; font-weight: bold;">همکاری تیمی</span>
+      <span style="flex: 0 0 60%;">ارتباط مؤثر و تعامل با تیم‌های چندرشته‌ای.</span>
     </div>
     <div style="display: flex; justify-content: space-between;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Critical Thinking</span>
-      <span style="flex: 0 0 60%;">Strategic evaluation and decision-making under pressure.</span>
+      <span style="flex: 0 0 35%; font-weight: bold;">تفکر انتقادی</span>
+      <span style="flex: 0 0 60%;">تحلیل راهبردی و تصمیم‌گیری در شرایط فشرده.</span>
     </div>
 
   </div>
 </section>
 
-<!-- Projects Section -->
-<section class="resume-section" style="margin-bottom: 1.2rem;">
-  <h2 style="font-size: 1rem; margin-bottom: 1rem; padding-left: 0;">PROFESSIONAL KEY PROJECTS</h2>
-  
-  <ul style="padding-left: 0; list-style-type: none; font-size: 0.68rem;">
 
-    <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Engineering Data Analysis Tool</strong> (2021)<br>
-      Designed and developed a technical software application during tenure at TU Wien (Vienna University of Technology), tailored for engineering research workflows. The tool processed experimental laboratory data as input and provided users with configurable settings to perform customized analytical computations. It featured a graphical user interface for visualizing results, enhancing clarity in data interpretation and supporting advanced engineering decision-making.
+<!-- Projects Section -->
+<section class="resume-section" style="margin-bottom: 1.2rem; direction: rtl; font-family: 'Vazirmatn', sans-serif;">
+  <h2 style="font-size: 0.93rem; margin-bottom: 1rem;">پروژه‌های کلیدی حرفه‌ای</h2>
+
+  <ul style="padding-right: 0; list-style-type: none; font-size: 0.63rem; text-align: justify;">
+
+    <li style="margin-bottom: 1rem;">
+      <strong>ابزار تحلیل داده‌های مهندسی</strong> (۲۰۲۱)<br>
+      طراحی و توسعه یک نرم‌افزار تخصصی در دانشگاه فناوری وین (TU Wien) جهت استفاده در فرآیندهای تحقیقاتی مهندسی. این ابزار داده‌های آزمایشگاهی را به‌عنوان ورودی دریافت کرده و با ارائه تنظیمات قابل پیکربندی، امکان انجام محاسبات تحلیلی سفارشی را فراهم می‌کرد. نرم‌افزار دارای رابط گرافیکی برای نمایش نتایج بود که به تفسیر دقیق‌تر داده‌ها و تصمیم‌گیری مهندسی پیشرفته کمک می‌کرد.
     </li>
-        <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Redundant Power Supply Design</strong> (2017)<br>
-      Engineered a redundant power supply and control system for a petrochemical processing plant, ensuring continuous operation of critical equipment during power interruptions. The design incorporated dual-redundant PLCs (Siemens S7-400) and power supplies, with automatic switching to backup systems in case of failure. This system significantly reduced downtime and increased system reliability, while also implementing preventive maintenance protocols and fault diagnostic features for early problem detection.
+
+    <li style="margin-bottom: 1rem;">
+      <strong>طراحی تغذیه ریداندنت برق</strong> (۲۰۱۷)<br>
+      طراحی سیستم تغذیه و کنترل ریداندنت برای واحد فرآیندی پتروشیمی به‌منظور حفظ عملکرد مداوم تجهیزات حیاتی در زمان قطعی برق. این طراحی شامل PLCهای دوبل زیمنس (S7-400) و منابع تغذیه پشتیبان با قابلیت سوئیچ خودکار در صورت بروز خطا بود. نتیجه نهایی کاهش محسوس زمان خاموشی، افزایش قابلیت اطمینان، پیاده‌سازی نگهداری پیشگیرانه و امکانات تشخیص خطا جهت شناسایی زودهنگام مشکلات بود.
     </li>
-    <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Multi-Stage Induction Motor</strong> (2004)<br>
-      Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
+
+    <li style="margin-bottom: 1rem;">
+      <strong>موتور القایی چندمرحله‌ای</strong> (۲۰۰۴)<br>
+      طراحی و ساخت نمونه کوچک موتور القایی چندمرحله‌ای به‌عنوان پروژه مقطع کاردانی. در این پروژه سیم‌پیچی دقیق و آرایش ترمینال‌های استاتور به گونه‌ای انجام شد که راه‌اندازی پله‌ای و کاهش جریان هجومی را ممکن می‌ساخت. اگرچه امروزه این روش جای خود را به درایوهای مدرن داده، اجرای آن با درک عمیق از تئوری موتور، روش‌های سیم‌پیچی و چالش‌های راه‌اندازی صنعتی همراه بود.
     </li>
+
   </ul>
 </section>
 
+
 <!-- About Me Section -->
-<section class="resume-section">
-  <h2 style="font-family: 'Vazir', sans-serif; text-align: right;">درباره من</h2>
+<section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl;">
+  <h2 style="
+    margin-bottom: 0.8em;
+    font-size: 1.1em;
+    color: #c3e550;
+    font-family: 'Vazir', sans-serif;
+  ">درباره من</h2>
 
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; /* اندازه قلم یکسان برای تمام خطوط */
-    color: #ffffff;">
-    مسیر فنی من از مدرسه فنی آغاز شد، جایی که آموزش عملی در زمینه مهندسی برق پایه‌گذار یک ذهنیت حل‌مسئله و عملی بود. آشنایی اولیه با سیستم‌های صنعتی دیدگاه من را نسبت به مهندسی به عنوان یک حرفه عملی، که به چالش‌های دنیای واقعی مرتبط است، شکل داد.
+  <p class="profile-text" style="
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 2;
+    margin: 0 auto 1.5em auto;
+    max-width: 95%;
+    word-spacing: -0.05em;
+    font-size: 0.85em;
+    color: #f5f5f5;
+    font-family: 'Vazir', sans-serif;
+    direction: rtl;">
+    مسیر فنی من از مدرسه فنی آغاز شد، جایی که آموزش عملی در زمینه مهندسی برق پایه‌گذار یک ذهنیت حل‌مسئله و عملی بود. آشنایی اولیه با سیستم‌های صنعتی دیدگاه من را نسبت به مهندسی به عنوان یک حرفه عملی، که به چالش‌های دنیای واقعی مرتبط است، شکل داد. با گذشت زمان، پروژه‌های فنی مختلف در صنایع گوناگون به من این فرصت را دادند که انعطاف‌پذیری، همکاری و تمرکز بر ارائه راه‌حل‌های پایدار را توسعه دهم.
   </p>
 
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    با گذشت زمان، پروژه‌های فنی مختلف در صنایع گوناگون به من این فرصت را دادند که انعطاف‌پذیری، همکاری و تمرکز بر ارائه راه‌حل‌های پایدار را توسعه دهم. به تدریج متوجه شدم که تخصص واقعی نه تنها در جمع‌آوری مهارت‌ها، بلکه در پیش‌بینی خطاهای احتمالی و حفظ انضباط برای جلوگیری از آن‌ها است.
+  <p class="profile-text" style="
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 2;
+    margin: 0 auto 1.5em auto;
+    max-width: 95%;
+    word-spacing: -0.05em;
+    font-size: 0.85em;
+    color: #f5f5f5;
+    font-family: 'Vazir', sans-serif;
+    direction: rtl;">
+    به تدریج متوجه شدم که تخصص واقعی نه تنها در جمع‌آوری مهارت‌ها، بلکه در پیش‌بینی خطاهای احتمالی و حفظ انضباط برای جلوگیری از آن‌ها است. در یک مقطع زمانی، انتقال به تحقیقاتی دانشگاهی در خارج از کشور صورت گرفت که نشان‌دهنده علاقه فنی و تحلیلی قوی بود و افق دید من را گسترش داد. با این حال، در گذر زمان، انگیزه عمیق‌تر من همچنان ریشه در مهندسی عملی و حل‌مسئله در سطح سیستم داشت.
   </p>
 
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    در یک مقطع زمانی، انتقال به تحقیقاتی دانشگاهی در خارج از کشور صورت گرفت که نشان‌دهنده علاقه فنی و تحلیلی قوی بود و افق دید من را گسترش داد. با این حال، در گذر زمان، انگیزه عمیق‌تر من همچنان ریشه در مهندسی عملی و حل‌مسئله در سطح سیستم داشت.
+  <p class="profile-text" style="
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 2;
+    margin: 0 auto 1.5em auto;
+    max-width: 95%;
+    word-spacing: -0.05em;
+    font-size: 0.85em;
+    color: #f5f5f5;
+    font-family: 'Vazir', sans-serif;
+    direction: rtl;">
+    بازگشت به وطن دیدگاه وسیع‌تری به من داد، ترکیب دانش عملی با تجربه بین‌المللی و در عین حال حفظ رویکرد منضبط و حل‌مسئله‌ای در مرکز تمامی کارها. علاقه ویژه‌ای به پروژه‌های فنی منحصر به فرد و چالش‌برانگیز دارم و همواره از عمق و زیبایی ریاضیات قدردانی می‌کنم. علاوه بر مهندسی، علاقه زیادی به سیستم‌های انسانی، تفکر ساختاریافته و زیبایی‌های ریاضیات و منطق دارم. تجربه‌های من در زمینه‌های غیر فنی نیز در بخش مهارت‌های نرم قابل مشاهده است.
   </p>
 
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    بازگشت به وطن دیدگاه وسیع‌تری به من داد، ترکیب دانش عملی با تجربه بین‌المللی و در عین حال حفظ رویکرد منضبط و حل‌مسئله‌ای در مرکز تمامی کارها. علاقه ویژه‌ای به پروژه‌های فنی منحصر به فرد و چالش‌برانگیز دارم و همواره از عمق و زیبایی ریاضیات قدردانی می‌کنم.
-  </p>
-
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    علاوه بر مهندسی، علاقه زیادی به سیستم‌های انسانی، تفکر ساختاریافته و زیبایی‌های ریاضیات و منطق دارم. تجربه‌های من در زمینه‌های غیر فنی نیز در بخش مهارت‌های نرم قابل مشاهده است.
-  </p>
-
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 1em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    تجربه‌ام در جابجایی بین کشورها و چالش‌های مرتبط با آن لایه‌ای دیگر به مسیر من اضافه کرده است. این جنبه از پیشینه‌ام را می‌توان در گفتگوها به‌طور مفصل‌تر بررسی کرد، چرا که حاوی نکاتی است که شاید بهتر باشد از طریق بحث و تبادل نظر مورد بررسی قرار گیرد.
-  </p>
-
-  <p style="font-family: 'Vazir', sans-serif; text-align: right; 
-    text-justify: inter-word; 
-    line-height: 1.5;  /* تنظیم فاصله بین خطوط */
-    margin: 0 auto 2em auto; 
-    max-width: 100%; 
-    word-spacing: -0.05em; 
-    hyphens: auto; 
-    font-size: 0.8em; 
-    color: #ffffff;">
-    در حال حاضر به دنبال فرصت‌های جدید به‌عنوان مهندس اتوماسیون هستم، با آمادگی برای همکاری در پروژه‌های بلندمدت، ماموریت‌های پروژه‌ای یا همکاری‌های مهندسی تخصصی. لطفاً در صورت وجود فرصت مناسب با من تماس بگیرید.
+  <p class="profile-text" style="
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 95%;
+    word-spacing: -0.05em;
+    font-size: 0.85em;
+    color: #f5f5f5;
+    font-family: 'Vazir', sans-serif;
+    direction: rtl;">
+    تجربه‌ام در جابجایی بین کشورها و چالش‌های مرتبط با آن لایه‌ای دیگر به مسیر من اضافه کرده است. این جنبه از پیشینه‌ام را می‌توان در گفتگوها به‌طور مفصل‌تر بررسی کرد، چرا که حاوی نکاتی است که شاید بهتر باشد از طریق بحث و تبادل نظر مورد بررسی قرار گیرد. در حال حاضر به دنبال فرصت‌های جدید به‌عنوان مهندس اتوماسیون هستم، با آمادگی برای همکاری در پروژه‌های بلندمدت، مأموریت‌های پروژه‌ای یا همکاری‌های مهندسی تخصصی.
   </p>
 </section>

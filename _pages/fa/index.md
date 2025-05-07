@@ -53,7 +53,7 @@ author_profile: true
 <section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl;">
   <h2 style="
     margin-bottom: 0.8em;
-    font-size: 1.1em;
+    font-size: 1.05em;
     color: #c3e550;
     font-family: 'Vazir', sans-serif;
   ">معرفی کوتاه</h2>
@@ -65,7 +65,7 @@ author_profile: true
     margin: 0 auto;
     max-width: 95%;
     word-spacing: -0.05em;
-    font-size: 0.9em;
+    font-size: 0.82em;
     color: #f5f5f5;
     font-family: 'Vazir', sans-serif;
     direction: rtl;">
@@ -76,29 +76,26 @@ author_profile: true
 
     <!-- Work Experience Section -->
 <section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5; margin-bottom: 2em;">
-  <h2 style="font-size: 1.1em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
+  <h2 style="font-size: 1.05em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
 
-<div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
-  <p class="company" style="margin-bottom: 0.2em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.4em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
-  <p class="duration" style="margin-top: 0; font-size: 0.85em;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
-  <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
-    <li>طراحی و پیاده‌سازی سیستم‌های پیشرفته کنترل صنعتی با استفاده از پلتفرم‌های PLC و DCS، با تمرکز ویژه بر قابلیت اطمینان، مقیاس‌پذیری و یکپارچگی با نیازهای فرآیندهای زمان واقعی. تجربه عملی با سری Siemens S7-400 و معماری‌های تغذیه ریداندنت.</li>
-    <li>انتخاب و پیکربندی راه‌حل‌های سخت‌افزاری و نرم‌افزاری بهینه متناسب با سناریوهای مختلف کنترل فرآیند صنعتی، با تأکید بر مقرون به صرفه بودن و انطباق با مشخصات مشتری و استانداردهای صنعتی.</li>
-    <li>تهیه مستندات فنی جامع، از جمله دیاگرام‌های لوپ، P&ID‌ها، نقشه‌های معماری سیستم، شماتیک‌های سیم‌کشی و راهنماهای عملیاتی دقیق — که ارتباط بی‌وقفه بین تیم‌های مهندسی، راه‌اندازی و عملیات را ممکن می‌سازد.</li>
-    <li>ایجاد پل ارتباطی میان مهندسی و توسعه نرم‌افزار، با ساخت ابزارهای سفارشی در Python و C# برای خودکارسازی فرآیندهای مستندسازی، تولید دیاگرام‌های لوپ از داده‌های I/O و تسهیل در پیکربندی سریع‌تر و دقیق‌تر سیستم.</li>
-  </ul>
-</div>
-
-
-
-
+  <div class="experience-item-fa" style="margin-bottom: 2em;">
+    <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl;">دانشگاه فناوری وین، اتریش</p>
+    <h3 style="margin: 0 0 0.1em 0; font-size: 1em; font-weight: bold;; color: #3498db; direction: rtl;">دستیار پژوهشی</h3>
+    <p class="duration" style="margin: 0; font-size: 0.85em; direction: rtl;">۲۰۱۸ - ۲۰۲۲ (۴ سال و ۵ ماه)</p>
+    <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside; font-family: 'Vazir', sans-serif; direction: rtl;">
+      <li>مدل‌سازی رفتار دینامیکی سامانه‌های عایق‌بندی ماشین‌های الکتریکی تحت تنش پالسی با فرکانس بالا ناشی از مبدل‌های قدرت مبتنی بر SiC، با تمرکز بر پدیده‌های تخلیه جزئی و مکانیسم‌های شکست عایقی.</li>
+      <li>ارزیابی انواع مواد و پیکربندی‌های عایقی برای شناسایی مکانیزم‌های خرابی و بهینه‌سازی قابلیت اطمینان، عملکرد و عمر مفید سامانه در شرایط تنش الکتریکی و محیطی.</li>
+      <li>انجام شبیه‌سازی و تحلیل پیشرفته با استفاده از MATLAB/Simulink برای بررسی رفتار عایق در شرایط مختلف دما، رطوبت و سوئیچینگ با فرکانس بالا.</li>
+      <li>ترکیب مدل‌سازی تحلیلی با بینش‌های طراحی عملی جهت ارتقای راهبردهای عایق‌بندی و مشارکت در اعتبارسنجی طراحی مبتنی بر داده در ماشین‌های الکتریکی فشار قوی.</li>
+    </ul>
+  </div>
+</section>
 
 <div class="experience-item-fa" style="margin-bottom: 2em;">
-  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت Schmuck Technology GmbH، اتریش</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">کارشناس فنی</h3>
-  <p class="duration" style="margin-top: 0; font-size: 0.85em;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
-  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl;">شرکت Schmuck Technology GmbH، اتریش</p>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db; direction: rtl;">کارشناس فنی</h3>
+  <p class="duration" style="margin-top: 0; font-size: 0.85em; direction: rtl;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
+  <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside; font-family: 'Vazir', sans-serif; direction: rtl;">
     <li>طراحی و پیاده‌سازی سیستم‌های پیشرفته کنترل صنعتی با استفاده از پلتفرم‌های PLC و DCS، با تمرکز ویژه بر قابلیت اطمینان، مقیاس‌پذیری و یکپارچگی با نیازهای فرآیندهای زمان واقعی. تجربه عملی با سری Siemens S7-400 و معماری‌های تغذیه ریداندنت.</li>
     <li>انتخاب و پیکربندی راه‌حل‌های سخت‌افزاری و نرم‌افزاری بهینه متناسب با سناریوهای مختلف کنترل فرآیند صنعتی، با تأکید بر مقرون به صرفه بودن و انطباق با مشخصات مشتری و استانداردهای صنعتی.</li>
     <li>تهیه مستندات فنی جامع، از جمله دیاگرام‌های لوپ، P&ID‌ها، نقشه‌های معماری سیستم، شماتیک‌های سیم‌کشی و راهنماهای عملیاتی دقیق — که ارتباط بی‌وقفه بین تیم‌های مهندسی، راه‌اندازی و عملیات را ممکن می‌سازد.</li>
@@ -109,9 +106,9 @@ author_profile: true
 
 <div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
   <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت نفت و گاز اروندان، ایران</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">سرپرست تعمیرات و ابزار دقیق</h3>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db;">سرپرست تعمیرات و ابزار دقیق</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em;">نوامبر ۲۰۱۲ تا ژانویه ۲۰۱۴ (۱ سال و ۲ ماه)</p>
-  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+  <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
     <li>رهبری عملیات عیب‌یابی و تحلیل ریشه‌ای خرابی‌ها در سامانه‌های ابزار دقیق و برق در محیط‌های صنعتی پیچیده، با هدف کاهش زمان توقف و افزایش کارایی سیستم.</li>
     <li>نظارت و هماهنگی فعالیت‌های تیم تعمیرات، ارائه راهنمایی فنی، اولویت‌بندی وظایف و پایش عملکرد به منظور حفظ ایمنی، بهره‌وری و انطباق با استانداردها.</li>
     <li>برنامه‌ریزی و اجرای بازدیدهای دوره‌ای و آزمون‌های تشخیصی تجهیزات برق و کنترل جهت ارزیابی وضعیت عملیاتی و پیش‌بینی نیازهای تعمیراتی.</li>
@@ -121,9 +118,9 @@ author_profile: true
 
 <div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
   <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">گروه صنعتی ویدر، ایران</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold;">تکنسین برق صنعتی و کنترل</h3>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db;">تکنسین برق صنعتی و کنترل</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em;">جولای ۲۰۰۵ تا نوامبر ۲۰۱۰ (۵ سال و ۴ ماه)</p>
-  <ul class="responsibilities" style="font-size: 0.85em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
+  <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
     <li>طراحی و اجرای مدارهای برق و سامانه‌های کنترلی برای ماشین‌آلات صنعتی پرسرعت با رعایت مشخصات فنی و استانداردهای صنعتی.</li>
     <li>انتخاب و تأمین قطعات برق، تابلوها و سامانه‌های سیم‌کشی متناسب با نیازهای عملکردی، دوام و به‌صرفه بودن اقتصادی.</li>
     <li>نصب، سیم‌کشی و راه‌اندازی عملی سیستم‌های برقی و کنترل خودکار در محیط‌های صنعتی و تولیدی.</li>
@@ -134,36 +131,32 @@ author_profile: true
 
 <!-- Add other work experiences in the same format -->
 <section class="resume-section" style="direction: rtl; text-align: right; font-family: 'Vazir', sans-serif; color: #f5f5f5;">
-  <h2 style="font-size: 1.15rem; margin-bottom: 1rem;">تحصیلات</h2>
+  <h2 style="font-size: 1rem; margin-bottom: 1rem;">تحصیلات</h2>
 
-  <div style="display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.78rem;">
-
+  <div style="display: flex; flex-direction: column; gap: 0.8rem; font-size: 0.6rem;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">کارشناسی ارشد انرژی و اتوماسیون</div>
+      <div style="flex: 0 0 35%;">کارشناسی ارشد انرژی و اتوماسیون</div>
       <div style="flex: 0 0 60%; text-align: right;">
         <div>دانشگاه فنی وین (TU Wien)</div>
         <div>۲۰۱۵ - ۲۰۱۹</div>
       </div>
     </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">کارشناسی مهندسی برق</div>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; font-size: 0.6rem;">
+      <div style="flex: 0 0 35%;">کارشناسی مهندسی برق</div>
       <div style="flex: 0 0 60%; text-align: right;">
         <div>دانشگاه آزاد اسلامی واحد تهران جنوب</div>
         <div>۲۰۰۶ - ۲۰۱۰</div>
       </div>
     </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">کاردانی مهندسی برق</div>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; font-size: 0.6rem;">
+      <div style="flex: 0 0 35%;">کاردانی مهندسی برق</div>
       <div style="flex: 0 0 60%; text-align: right;">
         <div>دانشکده فنی و حرفه‌ای بابل</div>
         <div>۲۰۰۲ - ۲۰۰۵</div>
       </div>
     </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 0 0 35%; font-weight: bold;">دیپلم برق صنعتی</div>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; font-size: 0.6rem;">
+      <div style="flex: 0 0 35%;">دیپلم برق صنعتی</div>
       <div style="flex: 0 0 60%; text-align: right;">
         <div>هنرستان فنی رازی</div>
         <div>۲۰۰۰ - ۲۰۰۲</div>
@@ -174,79 +167,78 @@ author_profile: true
 </section>
 
 <section class="resume-section" style="margin-bottom: 1.4rem; direction: rtl; font-family: 'Vazir', sans-serif;">
-  <h2 style="font-size: 1.07rem; margin-bottom: 1.1rem;">مهارت‌ها</h2>
+  <h2 style="font-size: 1rem; margin-bottom: 1.1rem;">مهارت‌ها</h2>
 
-  <div style="display: flex; flex-direction: column; font-size: 0.73rem;">
-
+  <div style="display: flex; flex-direction: column; font-size: 0.6rem;">
     <!-- Programming -->
-    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">برنامه‌نویسی</h3>
+    <h3 style="font-size: 0.76rem; margin: 0.56rem 0 0.37rem; color: #3498db;">برنامه‌نویسی</h3>
 
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">MATLAB (پیشرفته)</span>
+      <span style="flex: 0 0 35%;">MATLAB (پیشرفته)</span>
       <span style="flex: 0 0 60%;">محاسبات علمی، تحلیل داده و مدل‌سازی.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">C# (متوسط)</span>
+      <span style="flex: 0 0 35%;">C# (متوسط)</span>
       <span style="flex: 0 0 60%;">برنامه‌های دسکتاپ و یکپارچه‌سازی سیستمی.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Python (متوسط)</span>
+      <span style="flex: 0 0 35%;">Python (متوسط)</span>
       <span style="flex: 0 0 60%;">تحلیل داده، اتوماسیون و توسعه نرم‌افزار.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">JavaScript (متوسط)</span>
+      <span style="flex: 0 0 35%;">JavaScript (متوسط)</span>
       <span style="flex: 0 0 60%;">توسعه وب و اسکریپت‌نویسی محتوای پویا.</span>
     </div>
 
     <!-- Software -->
-    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">نرم‌افزارها</h3>
+    <h3 style="font-size: 0.76rem; margin: 0.56rem 0 0.37rem; color: #3498db;">نرم‌افزارها</h3>
 
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">AutoCAD Electrical (متوسط)</span>
+      <span style="flex: 0 0 35%;">AutoCAD Electrical (متوسط)</span>
       <span style="flex: 0 0 60%;">نقشه‌های برق و طراحی مدارهای کنترلی.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">ePLAN (متوسط)</span>
+      <span style="flex: 0 0 35%;">ePLAN (متوسط)</span>
       <span style="flex: 0 0 60%;">طراحی سیستم‌های برقی و دیاگرام سیم‌کشی.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Simatic Manager (متوسط)</span>
+      <span style="flex: 0 0 35%;">Simatic Manager (متوسط)</span>
       <span style="flex: 0 0 60%;">پیکربندی و برنامه‌نویسی PLC زیمنس.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">Rockwell Studio 5000 (متوسط)</span>
+      <span style="flex: 0 0 35%;">Rockwell Studio 5000 (متوسط)</span>
       <span style="flex: 0 0 60%;">برنامه‌نویسی سیستم‌های اتوماسیون راک‌ول.</span>
     </div>
 
     <!-- Language -->
-    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">زبان‌ها</h3>
+    <h3 style="font-size: 0.76rem; margin: 0.56rem 0 0.37rem; color: #3498db;">زبان‌ها</h3>
 
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">فارسی</span>
+      <span style="flex: 0 0 35%;">فارسی</span>
       <span style="flex: 0 0 60%;">زبان مادری</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">انگلیسی</span>
+      <span style="flex: 0 0 35%;">انگلیسی</span>
       <span style="flex: 0 0 60%;">پیشرفته، مسلط در مکاتبات فنی و تخصصی.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">آلمانی</span>
+      <span style="flex: 0 0 35%;">آلمانی</span>
       <span style="flex: 0 0 60%;">پیشرفته، تسلط در ارتباطات فنی و روزمره.</span>
     </div>
 
     <!-- Soft Skills -->
-    <h3 style="font-size: 0.86rem; margin: 0.56rem 0 0.37rem; color: #3498db;">مهارت‌های نرم</h3>
+    <h3 style="font-size: 0.76rem; margin: 0.56rem 0 0.37rem; color: #3498db;">مهارت‌های نرم</h3>
 
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">حل مسئله</span>
+      <span style="flex: 0 0 35%;">حل مسئله</span>
       <span style="flex: 0 0 60%;">رویکرد تحلیلی برای شناسایی و حل سریع چالش‌ها.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
-      <span style="flex: 0 0 35%; font-weight: bold;">همکاری تیمی</span>
+      <span style="flex: 0 0 35%;">همکاری تیمی</span>
       <span style="flex: 0 0 60%;">ارتباط مؤثر و تعامل با تیم‌های چندرشته‌ای.</span>
     </div>
     <div style="display: flex; justify-content: space-between;">
-      <span style="flex: 0 0 35%; font-weight: bold;">تفکر انتقادی</span>
+      <span style="flex: 0 0 35%;">تفکر انتقادی</span>
       <span style="flex: 0 0 60%;">تحلیل راهبردی و تصمیم‌گیری در شرایط فشرده.</span>
     </div>
 
@@ -256,7 +248,7 @@ author_profile: true
 
 <!-- Projects Section -->
 <section class="resume-section" style="margin-bottom: 1.2rem; direction: rtl; font-family: 'Vazir', sans-serif;">
-  <h2 style="font-size: 0.93rem; margin-bottom: 1rem;">پروژه‌های کلیدی حرفه‌ای</h2>
+  <h2 style="font-size: 0.9rem; margin-bottom: 1rem;">پروژه‌های کلیدی حرفه‌ای</h2>
 
   <ul style="padding-right: 0; list-style-type: none; font-size: 0.63rem; text-align: justify;">
 
@@ -266,8 +258,8 @@ author_profile: true
     </li>
 
     <li style="margin-bottom: 1rem;">
-      <strong>طراحی تغذیه ریداندنت برق</strong> (۲۰۱۷)<br>
-      طراحی سیستم تغذیه و کنترل ریداندنت برای واحد فرآیندی پتروشیمی به‌منظور حفظ عملکرد مداوم تجهیزات حیاتی در زمان قطعی برق. این طراحی شامل PLCهای دوبل زیمنس (S7-400) و منابع تغذیه پشتیبان با قابلیت سوئیچ خودکار در صورت بروز خطا بود. نتیجه نهایی کاهش محسوس زمان خاموشی، افزایش قابلیت اطمینان، پیاده‌سازی نگهداری پیشگیرانه و امکانات تشخیص خطا جهت شناسایی زودهنگام مشکلات بود.
+      <strong>طراحی سیستم اتوماسیون ریداندانت</strong> (۲۰۱۷)<br>
+      طراحی سیستم تغذیه و کنترل ریداندنت برای واحد فرآیندی به‌منظور حفظ عملکرد مداوم تجهیزات حیاتی در زمان قطعی برق. این طراحی شامل PLCهای دوبل زیمنس (S7-400) و منابع تغذیه پشتیبان با قابلیت سوئیچ خودکار در صورت بروز خطا بود. نتیجه نهایی کاهش محسوس زمان خاموشی، افزایش قابلیت اطمینان، پیاده‌سازی نگهداری پیشگیرانه و امکانات تشخیص خطا جهت شناسایی زودهنگام مشکلات بود.
     </li>
 
     <li style="margin-bottom: 1rem;">
@@ -283,7 +275,7 @@ author_profile: true
 <section class="resume-section" style="font-family: 'Vazir', sans-serif; direction: rtl;">
   <h2 style="
     margin-bottom: 0.8em;
-    font-size: 1.1em;
+    font-size: 0.93em;
     color: #c3e550;
     font-family: 'Vazir', sans-serif;
   ">درباره من</h2>

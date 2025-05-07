@@ -79,7 +79,7 @@ Analyse und Bewertung von Isolierstoffen und Systemkonzepten zur Erkennung typis
 
 <div class="experience-item">
  <p class="company" style="margin-bottom: 0.1em;">Schmuck Technology GmbH, Österreich</p>
-  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Technischer Experte für Automatisierungstechnik</h3>
+  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Automatisierungstechniker/h3>
   <p class="duration" style="margin-top: 0;">2015 – 2018 (3 Jahre und 4 Monate)</p>
   <ul class="responsibilities">
     <li>
@@ -252,16 +252,16 @@ Entwurf und Umsetzung von elektrischen Schaltkreisen und Steuerungssystemen für
   <ul style="padding-left: 0; list-style-type: none; font-size: 0.68rem;">
 
     <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Engineering Data Analysis Tool (2021)</strong> (2021)<br>
+      <strong>Engineering Data Analysis Tool (2021)</strong><br>
       
 Entwicklung einer technischen Softwareanwendung im Rahmen eines Forschungsprojekts an der TU Wien. Die Anwendung verarbeitete experimentelle Labordaten und ermöglichte konfigurierbare Analysefunktionen über eine grafische Benutzeroberfläche zur Visualisierung. Dies unterstützte eine fundierte Entscheidungsfindung im technischen Bereich.
     </li>
         <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Redundante Stromversorgung für petrochemische Anlage (2017)</strong> (2017)<br>
+      <strong>Redundante Stromversorgung für petrochemische Anlage (2017)</strong><br>
 Konzipierung eines unterbrechungssicheren Energie- und Steuerungssystems mit doppelter Redundanz (Siemens S7-400) für kritische Industrieprozesse. Die Lösung beinhaltete automatisches Umschalten auf Backup-Systeme, reduzierte Ausfallzeiten erheblich und integrierte Diagnosefunktionen zur frühzeitigen Fehlererkennung.
     </li>
     <li style="margin-bottom: 1rem; text-align: justify;">
-      <strong>Mehrstufiger Asynchronmotor (2004)</strong> (2004)<br>
+      <strong>Mehrstufiger Asynchronmotor (2004)</strong><br>
 Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asynchronmotors im Rahmen eines Ausbildungsprojekts. Durch gezielte Verschaltung der Statorwicklungen konnte der Einschaltstrom reduziert und Spannungseinbrüche minimiert werden – ein klassisches Verfahren, das praktisch umgesetzt wurde.
     </li>
   </ul>
@@ -269,7 +269,7 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
 
 <!-- About Me Section -->
 <section class="resume-section">
-  <h2>ABOUT ME</h2>
+  <h2>Über mich</h2>
 
   <p style="text-align: justify;
     text-justify: inter-word;

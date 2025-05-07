@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "رزومه - مهدی امیدی"
 permalink: /fa/
 author_profile: true
 ---
@@ -70,7 +70,7 @@ author_profile: true
     font-family: 'Vazir', sans-serif;
     direction: rtl;">
     
-فعالیت حرفه‌ای در حوزه مهندسی برق از سال ۱۳۷۹ آغاز شد و هم‌زمان با ادامه تحصیلات دانشگاهی، تجربه عملی در بخش‌های مختلف اتوماسیون و کنترل به‌دست آمد. چندی بعد، با هدف مواجهه با چالشی تخصصی‌تر، مسیر پژوهش در لبه فناوری دنبال شد. در این دوره، دیدگاه مهندسی تقویت و آشنایی با ابزارها و روش‌های نوین حاصل شد. با وجود آن‌که مسیر تحقیقاتی در نهایت با علایق شغلی کاملاً هم‌راستا نبود، دستاوردهای فکری و فنی این تجربه ارزشمند باقی ماند. اکنون، پس از یک وقفه کوتاه، تمرکز بر بازگشت به حوزه اصلی اتوماسیون و کنترل با انگیزه‌ای دوچندان قرار گرفته است.
+فعالیت حرفه‌ای در حوزه مهندسی برق از سال ۱۳۷۹ آغاز شد و هم‌زمان با ادامه تحصیلات دانشگاهی، تجربه عملی در بخش‌های مختلف اتوماسیون و کنترل به‌دست آمد. چندی بعد، با هدف مواجهه با چالشی تخصصی‌تر، مسیر پژوهش در لبه فناوری دنبال شد. در این دوره، دیدگاه مهندسی تقویت و آشنایی با ابزارها و روش‌های نوین حاصل شد. با وجود آن‌که مسیر تحقیقاتی در نهایت با علایق شغلی کاملاً هم‌راستا نبود، دستاوردهای فکری و فنی این تجربه ارزشمند باقی ماند. اکنون، پس از یک وقفه طولانی، تمرکز بر بازگشت به حوزه اصلی اتوماسیون و کنترل با انگیزه‌ای دوچندان قرار گرفته است.
   </p>
 </section>
 
@@ -79,7 +79,7 @@ author_profile: true
   <h2 style="font-size: 1.05em; color: #c3e50; margin-bottom: 1.2em;">سوابق شغلی</h2>
 
   <div class="experience-item-fa" style="margin-bottom: 2em;">
-    <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl;">دانشگاه فناوری وین، اتریش</p>
+    <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl; color: #bcc0cb;">دانشگاه فنی وین، اتریش</p>
     <h3 style="margin: 0 0 0.1em 0; font-size: 1em; font-weight: bold;; color: #3498db; direction: rtl;">دستیار پژوهشی</h3>
     <p class="duration" style="margin: 0; font-size: 0.85em; direction: rtl;">۲۰۱۸ - ۲۰۲۲ (۴ سال و ۵ ماه)</p>
     <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside; font-family: 'Vazir', sans-serif; direction: rtl;">
@@ -92,7 +92,7 @@ author_profile: true
 </section>
 
 <div class="experience-item-fa" style="margin-bottom: 2em;">
-  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl;">شرکت Schmuck Technology GmbH، اتریش</p>
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; direction: rtl; color: #bcc0cb;">شرکت Schmuck Technology GmbH، اتریش</p>
   <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db; direction: rtl;">کارشناس فنی</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em; direction: rtl;">۲۰۱۵ - ۲۰۱۸ (۳ سال و ۴ ماه)</p>
   <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside; font-family: 'Vazir', sans-serif; direction: rtl;">
@@ -105,7 +105,7 @@ author_profile: true
 
 
 <div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
-  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">شرکت نفت و گاز اروندان، ایران</p>
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; color: #bcc0cb;">شرکت نفت و گاز اروندان، ایران</p>
   <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db;">سرپرست تعمیرات و ابزار دقیق</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em;">نوامبر ۲۰۱۲ تا ژانویه ۲۰۱۴ (۱ سال و ۲ ماه)</p>
   <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
@@ -117,7 +117,7 @@ author_profile: true
 </div>
 
 <div class="experience-item-fa" style="margin-bottom: 2em; font-family: 'Vazir', sans-serif; direction: rtl; text-align: right; color: #f5f5f5;">
-  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em;">گروه صنعتی ویدر، ایران</p>
+  <p class="company" style="margin-bottom: 0.1em; font-size: 0.9em; color: #bcc0cb;">گروه صنعتی ویدر، ایران</p>
   <h3 style="margin-top: 0; margin-bottom: 0.1em; font-size: 1em; font-weight: bold; color: #3498db;">تکنسین برق صنعتی و کنترل</h3>
   <p class="duration" style="margin-top: 0; font-size: 0.85em;">جولای ۲۰۰۵ تا نوامبر ۲۰۱۰ (۵ سال و ۴ ماه)</p>
   <ul class="responsibilities" style="font-size: 0.9em; line-height: 1.8; padding-right: 1.2em; margin-top: 0.8em; list-style-position: inside;">
@@ -219,11 +219,11 @@ author_profile: true
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.28rem;">
       <span style="flex: 0 0 35%;">انگلیسی</span>
-      <span style="flex: 0 0 60%;">پیشرفته، مسلط در مکاتبات فنی و تخصصی.</span>
+      <span style="flex: 0 0 60%;"> پیشرفته، مسلط در مکاتبات فنی - تخصصی و روزمره.</span>
     </div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 0.93rem;">
       <span style="flex: 0 0 35%;">آلمانی</span>
-      <span style="flex: 0 0 60%;">پیشرفته، تسلط در ارتباطات فنی و روزمره.</span>
+      <span style="flex: 0 0 60%;"> پیشرفته، مسلط در مکاتبات فنی - تخصصی و روزمره.</span>
     </div>
 
     <!-- Soft Skills -->

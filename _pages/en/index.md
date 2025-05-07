@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Resume - Mehdi Omidi"
 permalink: /en/
 author_profile: true
 ---

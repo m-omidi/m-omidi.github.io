@@ -12,29 +12,29 @@ author_profile: true
 
   <table class="info-table">
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Age:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 Years</td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">40 سال</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>سن:</strong></td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Location:</strong></td>
-      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">Tavanir, Tehran</td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">تهران- توانیر</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>محل سکونت:</strong></td>
     </tr>
     <tr>
-      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>Online CV:</strong></td>
       <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi.github.io</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;"><strong>رزومه آنلاین:</strong></td>
     </tr>
       <tr>
-<td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
-  <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>Phone:</strong>
-</td>
-<td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
+      <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">+98 936 906 6014</td>
+      <td class="label" style="color: #a0a8c0; font-size: 0.85em; ;width: 45%;">
+        <i class="fas fa-phone-alt" style="color: #ffffff; margin-right: 5px"></i> <strong>شماره تماس:</strong>
+      </td>
 
   </tr>
    <tr>
+   <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
     <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%;">
-      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>Email:</strong>
+      <i class="fas fa-envelope" style="color: #ffffff; margin-right: 5px;"></i> <strong>آدرس ایمیل:</strong>
     </td>
-    <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;">m-omidi@hotmail.com</td>
    </tr>
 
   </table>
@@ -42,7 +42,7 @@ author_profile: true
   </aside>
     <main class="content">
 <section class="resume-section">
-  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">PROFESSIONAL SUMMARY</h2>
+  <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">معرفی کوتاه</h2>
   <p class="profile-text" style="text-align: justify; 
     text-justify: inter-word;
     line-height: 1.6;
@@ -54,9 +54,7 @@ author_profile: true
     color: #f5f5f5;">
     
     
-Automation Engineer with a strong foundation in electrical engineering and hands-on experience in industrial automation projects, particularly in oil, gas, and petrochemical sectors. Skilled in PLC programming, control panel design, system architecture development, and preparation of technical documents such as I/O lists, control philosophies, and loop diagrams.
-
-Focused on delivering precise and reliable solutions by combining engineering knowledge with a software-driven approach to optimize workflows and create custom tools when needed. Known for attention to detail, structured problem-solving, and a consistent commitment to high technical standards.
+فعالیت حرفه‌ای در حوزه مهندسی برق از سال ۱۳۷۹ آغاز شد و هم‌زمان با ادامه تحصیلات دانشگاهی، تجربه عملی در بخش‌های مختلف اتوماسیون و کنترل به‌دست آمد. چندی بعد، با هدف مواجهه با چالشی تخصصی‌تر، مسیر پژوهش در لبه فناوری دنبال شد. در این دوره، دیدگاه مهندسی تقویت و آشنایی با ابزارها و روش‌های نوین حاصل شد. با وجود آن‌که مسیر تحقیقاتی در نهایت با علایق شغلی کاملاً هم‌راستا نبود، دستاوردهای فکری و فنی این تجربه ارزشمند باقی ماند. اکنون، پس از یک وقفه کوتاه، تمرکز بر بازگشت به حوزه اصلی اتوماسیون و کنترل با انگیزه‌ای دوچندان قرار گرفته است.
   </p>
 </section>
     <!-- Work Experience Section -->

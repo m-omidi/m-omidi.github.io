@@ -613,3 +613,19 @@ background-color: #262a35;
 
 
 
+@media (max-width: 768px) {
+  .page {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .sidebar__wrapper {
+    order: 0;
+    width: 100%;
+  }
+
+  .page__content {
+    order: 1;
+    width: 100%;
+  }
+}

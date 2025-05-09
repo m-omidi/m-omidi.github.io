@@ -611,46 +611,24 @@ background-color: #262a35;
 }
 
 
-
 @media (max-width: 768px) {
-  /* Reset and base styles */
-  body {
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
-  }
-  
   .resume-container {
     display: flex;
     flex-direction: column;
     margin-top: 20px;
   }
 
-  /* Language switcher - سوییچر زبان */
-  .language-switcher {
-    position: fixed;
-    top: 15px;
-    right: 15px;
-    z-index: 1000;
-    background: rgba(255, 255, 255, 0.9);
-    padding: 5px 10px;
-    border-radius: 4px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  }
-
-  /* Content area - محتوای اصلی */
   .content {
     height: auto !important;
     overflow-y: visible !important;
     padding: 1rem;
     font-size: 0.9rem !important;
-    margin-top: 70px;
+    margin-top: 0; /* تغییر داده شد */
     width: 100%;
     box-sizing: border-box;
-    position: static; /* تغییر موقعیت به static */
+    order: 1; /* اطمینان از اینکه محتوا بعد از سایدبار می‌آید */
   }
 
-  /* Sidebar - نوار کناری */
   .sidebar {
     order: 0;
     width: 100%;
@@ -658,30 +636,39 @@ background-color: #262a35;
     background-color: #262a35;
     color: #ffffff;
     border-radius: 1px;
-    font-size: 1.1em; /* 10% بزرگتر از 0.97em */
+    font-size: 1.1em; /* 10% بزرگتر (از 0.97em به 1.1em) */
     position: relative; /* تغییر از static به relative */
     top: 0;
     padding: 1rem;
     box-sizing: border-box;
-    overflow: visible;
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  .sidebar * {
+    font-size: 1.1em !important; /* 10% بزرگتر برای همه عناصر سایدبار */
+  }
+
+  .sidebar img {
     height: auto;
-    
-    /* حذف خصوصیات ثابت */
-    transform: none !important;
-    will-change: unset !important;
+    display: block;
+    margin: 0 auto;
+    max-width: 125px !important; /* 25% بزرگتر (از 100px به 125px) */
+    border-radius: 50%;
+    transform: scale(1.25); /* روش جایگزین برای بزرگ کردن عکس */
   }
 
   .sidebar h2 {
     text-align: center;
     margin-bottom: 0.5em;
-    font-size: 1.32em; /* 10% بزرگتر از 1.2em */
+    font-size: 1.32em !important; /* 10% بزرگتر (از 1.2em) */
   }
 
   .sidebar p {
     text-align: center;
     margin-bottom: 1.5em;
     color: #d1d1d1;
-    font-size: 1.1em; /* 10% بزرگتر */
+    font-size: 1.1em !important;
   }
 
   .main {
@@ -691,17 +678,25 @@ background-color: #262a35;
     box-sizing: border-box;
   }
 
-  /* Sidebar image - عکس نوار کناری */
-  .sidebar img {
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    max-width: 115px; /* 15% بزرگتر از 100px */
-    border-radius: 50%;
-    transform: scale(1.15); /* روش جایگزین برای بزرگ کردن عکس */
+  /* سوییچر زبان */
+  .language-switcher {
+    position: fixed !important;
+    top: 10px;
+    right: 10px;
+    z-index: 9999 !important; /* بالاترین مقدار ممکن */
+    background: rgba(0,0,0,0.7);
+    padding: 5px;
+    border-radius: 5px;
   }
 
-  /* Layout adjustments */
+  /* اصلاح اسکرول */
+  body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
   .page {
     padding: 0 15px;
     box-sizing: border-box;
@@ -712,15 +707,119 @@ background-color: #262a35;
     padding: 0;
     width: 100%;
   }
-  
-  /* حذف اسکرول ثابت برای سایدبار */
-  .sidebar.sticky {
-    position: relative !important;
-    top: auto !important;
-  }
 }
 
-//hh
+
+
+// @media (max-width: 768px) {
+//   /* Reset and base styles */
+//   body {
+//     margin: 0;
+//     padding: 0;
+//     overflow-x: hidden;
+//   }
+  
+//   .resume-container {
+//     display: flex;
+//     flex-direction: column;
+//     margin-top: 20px;
+//   }
+
+//   /* Language switcher - سوییچر زبان */
+//   .language-switcher {
+//     position: fixed;
+//     top: 15px;
+//     right: 15px;
+//     z-index: 1000;
+//     background: rgba(255, 255, 255, 0.9);
+//     padding: 5px 10px;
+//     border-radius: 4px;
+//     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+//   }
+
+//   /* Content area - محتوای اصلی */
+//   .content {
+//     height: auto !important;
+//     overflow-y: visible !important;
+//     padding: 1rem;
+//     font-size: 0.9rem !important;
+//     margin-top: 70px;
+//     width: 100%;
+//     box-sizing: border-box;
+//     position: static; /* تغییر موقعیت به static */
+//   }
+
+//   /* Sidebar - نوار کناری */
+//   .sidebar {
+//     order: 0;
+//     width: 100%;
+//     margin: 0;
+//     background-color: #262a35;
+//     color: #ffffff;
+//     border-radius: 1px;
+//     font-size: 1.1em; /* 10% بزرگتر از 0.97em */
+//     position: relative; /* تغییر از static به relative */
+//     top: 0;
+//     padding: 1rem;
+//     box-sizing: border-box;
+//     overflow: visible;
+//     height: auto;
+    
+//     /* حذف خصوصیات ثابت */
+//     transform: none !important;
+//     will-change: unset !important;
+//   }
+
+//   .sidebar h2 {
+//     text-align: center;
+//     margin-bottom: 0.5em;
+//     font-size: 1.32em; /* 10% بزرگتر از 1.2em */
+//   }
+
+//   .sidebar p {
+//     text-align: center;
+//     margin-bottom: 1.5em;
+//     color: #d1d1d1;
+//     font-size: 1.1em; /* 10% بزرگتر */
+//   }
+
+//   .main {
+//     order: 1;
+//     width: 100%;
+//     padding: 0 1rem;
+//     box-sizing: border-box;
+//   }
+
+//   /* Sidebar image - عکس نوار کناری */
+//   .sidebar img {
+//     height: auto;
+//     display: block;
+//     margin: 0 auto;
+//     max-width: 115px; /* 15% بزرگتر از 100px */
+//     border-radius: 50%;
+//     transform: scale(1.15); /* روش جایگزین برای بزرگ کردن عکس */
+//   }
+
+//   /* Layout adjustments */
+//   .page {
+//     padding: 0 15px;
+//     box-sizing: border-box;
+//   }
+
+//   .page__inner-wrap {
+//     margin: 0;
+//     padding: 0;
+//     width: 100%;
+//   }
+  
+//   /* حذف اسکرول ثابت برای سایدبار */
+//   .sidebar.sticky {
+//     position: relative !important;
+//     top: auto !important;
+//   }
+// }
+
+
 
 // @media (max-width: 768px) {
 //   .resume-container {

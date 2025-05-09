@@ -5,10 +5,10 @@ permalink: /fa/
 author_profile: true
 ---
 
-<div class="lang-en">
+<div class="lang-fa">
 <aside class="sidebar" style="font-family: 'Vazir', sans-serif; text-align: right; top: 100px ;">
   <img src="/assets/images/profile.png" alt="Profile" class="profile-image" style="display: block; margin: 0 auto;">
-  <div class="personal-info">
+  <div class="personal-info" style="width: 100%;">
     <table class="info-table" style="width: 100%; border-collapse: collapse;">
       <tr>
         <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;" id="number">1364</td>

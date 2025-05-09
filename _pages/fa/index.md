@@ -28,7 +28,7 @@ author_profile: true
         <td class="label" style="color: #a0a8c0; font-size: 0.85em; width: 45%; direction: rtl;"><strong>رزومه آنلاین:</strong></td>
       </tr>
       <tr>
-        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;" id="phoneNumber">+98 936 906 6014</td>
+        <td class="value" style="color: #ffffff; font-size: 0.9em; width: 55%;" id="phoneNumber">0936 906 6014</td>
         <script>
           document.getElementById("phoneNumber").innerText = document.getElementById("phoneNumber").innerText.replace(/\d/g, function(digit) {
             return '۰۱۲۳۴۵۶۷۸۹'[digit];

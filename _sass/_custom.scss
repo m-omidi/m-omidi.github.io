@@ -610,7 +610,35 @@ background-color: #262a35;
   z-index: 1000;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width: 576px) and (max-width: 768px) {
+.value {
+  white-space: nowrap;
+}
+.sidebar p {
+  white-space: nowrap;
+}
+
   .lang-fa .content table {
     margin-right: auto;
     margin-left: 0;
@@ -629,7 +657,7 @@ background-color: #262a35;
   .sidebar table th {
     padding: 0.5rem;
     text-align: center;
-    font-size: 1rem; /* خواناتر برای موبایل */
+    font-size: 1.5rem; /* خواناتر برای موبایل */
   }
   .resume-container {
     display: flex;
@@ -710,7 +738,7 @@ background-color: #262a35;
   table,
   table td,
   table th {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -722,7 +750,7 @@ background-color: #262a35;
   table,
   table td,
   table th {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
   
   .resume-container {
@@ -863,7 +891,7 @@ background-color: #262a35;
 
   .language-switcher {
     position: fixed;
-    font-size: 0.65em;
+    font-size: 0.55em;
     top: 6px;
     right: 6px;
     z-index: 9999;

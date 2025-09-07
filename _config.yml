@@ -21,10 +21,10 @@ exclude_from_localizations: ["assets", "images", "favicon.ico"]
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Mehdi Omidi"
+title                    : "Mahdi Omidi"
 title_separator          : "-"
-subtitle                 : "Automation Engineer | Software-Oriented Thinker"
-name                     : "Mehdi Omidi"
+subtitle                 : "Electrical Engineer | Code-Driven Problem Solver | Mathematical Thinker"
+name                     : "Mahdi Omidi"
 description              : "Online Cv"
 url                      : " https://m-omidi.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -116,8 +116,8 @@ analytics:
 
 
 # Site Author
-  author           : "Mehdi Omidi"
-  name             : "Mehdi Omidi"
+  author           : "Mahdi Omidi"
+  name             : "Mahdi Omidi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio ..."
   location         : "Tehran-Tavanir"
@@ -325,7 +325,7 @@ defaults:
       share: true
       related: true
 
-title: "Mehdi Omidi"
+title: "Mahdi Omidi"
 description: "Online Resume"
 baseurl: ""
 url: "https://m-omidi.github.io"

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Lebenslauf - Mehdi Omidi"
+title: "Lebenslauf - Mahdi Omidi"
 permalink: /de/
 author_profile: true
 ---

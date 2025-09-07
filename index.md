@@ -53,7 +53,7 @@ author_profile: true
     font-size: 0.9em;
     color: #f5f5f5;">   
 
-    A professional path in electrical engineering began in 2000, accompanied by academic studies and hands-on experience in various sectors of automation and control. In pursuit of a deeper technical challenge, a transition was made into research at the forefront of technology. This phase offered valuable exposure to modern engineering tools and a broader technical perspective. Although the research track did not fully align with long-term professional interests, the insights and skills gained remain significant. Efforts are now directed toward returning to the core field of automation and control with renewed focus and commitment.
+    A professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity.
   </p>
 </section>
     <!-- Work Experience Section -->

@@ -53,13 +53,25 @@ author_profile: true
     font-size: 0.9em;
     color: #f5f5f5;">   
 
-    A professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity.
+    My professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity. 
   </p>
 </section>
     <!-- Work Experience Section -->
     <section class="resume-section">
       <h2>WORK EXPERIENCE</h2>
       
+<div class="experience-item">
+  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Independent Electrical Engineer – Project-Based</h3>
+  <p class="duration" style="margin-top: 0;">2023 - Present (2 years and 6 months)</p>
+  <ul class="responsibilities">
+    <li>
+    Delivering project-based solutions for diverse organizations, with a focus on automation, electrical machines, and control systems. Projects include mathematical modeling, simulation in MATLAB/Python, and the development of custom software tools to support engineering analysis and decision-making.</li>
+    <li>Developed a graphical software tool that collects user input data and settings to perform automated calculations, data analysis, and visualization. Enabled users to customize parameters and instantly view analytical results, enhancing efficiency and accuracy in engineering evaluations.</li>
+    <li>Built a MATLAB-based model for thermal and performance analysis of electric machines. Integrated mathematical modeling, simulation of heat dissipation, and operational efficiency under different load scenarios, providing actionable insights for design optimization.</li>
+    <li>Designed and implemented a simulation framework for control algorithms of electrical systems. Combined numerical methods and programming to model system dynamics, simulate controller response, and produce graphical outputs illustrating stability, performance, and optimization scenarios.</li>
+  </ul>
+</div>
+
 <div class="experience-item">
   <p class="company" style="margin-bottom: 0.1em;">TU Vienna, Austria</p>
   <h3 style="margin-top: 0; margin-bottom: 0.1em;">Research Assistant</h3>
@@ -265,7 +277,8 @@ author_profile: true
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    A technical path began in vocational school, where a practice-centered education in electrical engineering built the foundation for a hands-on and solution-oriented mindset. Early exposure to industrial systems shaped the view of engineering as a practical craft closely tied to real-world challenges.
+    
+  With a foundation in vocational training and extensive hands-on experience, I have built a career in electrical engineering focused on practical problem-solving, automation, and system-level analysis. My journey includes diverse industrial projects as well as international research experience, which broadened my technical perspective and analytical skills.
   </p>
 
   <p style="text-align: justify;
@@ -277,66 +290,7 @@ author_profile: true
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Over the years, a range of technical projects across different sectors provided the opportunity to develop adaptability, collaboration, and a focus on delivering reliable solutions. Gradually, it became clear that true expertise lies not only in collecting skills but in anticipating potential errors and maintaining the discipline to prevent them.
+    Currently, I combine expertise in electrical engineering with programming and mathematics to model, simulate, and solve complex challenges. I am seeking project-based opportunities where I can apply this blend of skills to deliver reliable and innovative solutions.
   </p>
 
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    At a certain stage, a transition toward academic research took place through joining a university setting abroad. This step reflected a strong technical and analytical interest and broadened perspectives. However, over time, the deeper motivation remained rooted in engineering practice and system-level problem-solving.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Returning home brought a wider perspective, blending practical knowledge with international experience, while maintaining a disciplined and solution-driven approach at the core of all work. Particular interest is given to unique and technically challenging projects, as well as a continuous appreciation for the depth and beauty of mathematics.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    The last point is that this resume is written based on the positions I am targeting. However, I have also gained experience in non-technical fields, the outcome of which can be seen in the Soft Skills section.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    My experience of moving across borders and the challenges tied to it adds a layer of complexity to my journey. This aspect of my background could be elaborated upon further in a conversation, should it be necessary, as it carries nuances that might better be explored through discussion.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 2em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Currently seeking new opportunities as an Automation Engineer, with openness to full-time roles, project-based assignments, or specialized engineering collaborations. Feel free to get in touch regarding any suitable opportunity.
-  </p>
 </section>

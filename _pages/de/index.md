@@ -53,13 +53,33 @@ author_profile: true
     font-size: 0.9em;
     color: #f5f5f5;">
 
-    Der berufliche Werdegang im Bereich Elektrotechnik begann im Jahr 2000, begleitet von akademischer Ausbildung und praktischer Erfahrung in verschiedenen Bereichen der Automatisierungs- und Steuerungstechnik. Auf der Suche nach einer tiefergehenden technischen Herausforderung wurde ein forschungsorientierter Weg eingeschlagen – an der Spitze technologischer Entwicklungen. In dieser Phase konnten wertvolle Einblicke in moderne Werkzeuge und ingenieurwissenschaftliche Methoden gewonnen werden. Auch wenn sich dieser Weg nicht vollständig mit den langfristigen beruflichen Interessen deckte, bleiben die gesammelten Erfahrungen von großem Wert. Derzeit liegt der Fokus darauf, mit neuer Motivation in das ursprüngliche Fachgebiet der Automatisierung und Steuerung zurückzukehren.
+    Seit 2000 habe ich meinen beruflichen Werdegang in der Elektrotechnik aufgebaut, mit einer soliden Grundlage aus Studium und praktischer Erfahrung in Automatisierung und Steuerung. Im Laufe der Jahre habe ich mein Profil durch vertiefte Kenntnisse in Mathematik, Programmierung und Modellierung erweitert, insbesondere bei der Lösung komplexer ingenieurtechnischer Fragestellungen. Forschungsaufenthalte haben meinen analytischen Blick geschärft und mir neue methodische Ansätze vermittelt, während die Arbeit mit elektrischen Maschinen meine praxisnahe Kompetenz gestärkt hat. Heute konzentriere ich mich auf projektbasierte Tätigkeiten, bei denen ich Mathematik, Softwareentwicklung und Ingenieurwissen kombiniere, um anspruchsvolle Aufgaben präzise und kreativ zu bewältigen.
   </p>
 </section>
     <!-- Work Experience Section -->
     <section class="resume-section">
       <h2>Berufserfahrung</h2>
-      
+
+     <div class="experience-item">
+  <h3 style="margin-top: 0; margin-bottom: 0.1em;">Selbständiger Elektroingenieur – Projektbasiert</h3>
+  <p class="duration" style="margin-top: 0;">2023 - Heute (2 Jahre und 6 Monate)</p>
+  <ul class="responsibilities">
+    <li>
+    Durchführung projektbasierter Lösungen für verschiedene Unternehmen mit Schwerpunkt auf Automatisierung, elektrische Maschinen und Steuerungssysteme. Projekte umfassen mathematische Modellierung, Simulation in MATLAB/Python sowie die Entwicklung maßgeschneiderter Softwaretools zur Unterstützung von Ingenieuranalysen und Entscheidungsprozessen.
+    </li>
+    <li>
+    Entwicklung eines grafischen Softwaretools zur Erfassung von Benutzerdaten und -einstellungen für automatisierte Berechnungen, Datenanalysen und Visualisierungen. Ermöglichte die Anpassung von Parametern und die sofortige Darstellung analytischer Ergebnisse zur Steigerung von Effizienz und Genauigkeit.
+    </li>
+    <li>
+    Erstellung eines MATLAB-basierten Modells zur thermischen und leistungsbezogenen Analyse elektrischer Maschinen. Integrierte mathematische Modellierung, Simulation der Wärmeabfuhr und Bewertung der Betriebseffizienz unter verschiedenen Lastszenarien, um praxisnahe Empfehlungen für die Designoptimierung zu liefern.
+    </li>
+    <li>
+    Konzeption und Implementierung eines Simulationsrahmens für Regelungsalgorithmen elektrischer Systeme. Kombination numerischer Methoden und Programmierung zur Modellierung von Systemdynamiken, Simulation des Regelverhaltens und grafischen Darstellung von Stabilität, Leistung und Optimierungsszenarien.
+    </li>
+  </ul>
+</div>
+
+
 <div class="experience-item">
   <p class="company" style="margin-bottom: 0.1em;">Technische Universität Wien, Österreich</p>
   <h3 style="margin-top: 0; margin-bottom: 0.1em;">Wissenschaftlicher Mitarbeiter</h3>
@@ -280,7 +300,8 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Mein technischer Weg begann in der Berufsschule, wo eine praxisorientierte Ausbildung im Bereich Elektrotechnik die Grundlage für eine lösungsorientierte Denkweise bildete. Die frühzeitige Auseinandersetzung mit industriellen Systemen lehrte mich, dass Ingenieurwissenschaften nicht nur eine Ansammlung von Formeln sind, sondern ein handwerklicher Prozess, der fest mit den Herausforderungen der realen Welt verbunden ist.
+    
+    Ich verfüge über eine fundierte Ausbildung und langjährige Erfahrung in der Elektrotechnik, insbesondere in Automatisierung, Steuerung und Systemanalyse. Neben Industrieprojekten habe ich auch internationale Forschungserfahrungen gesammelt, die meine analytischen und technischen Fähigkeiten vertieft haben.
   </p>
 
   <p style="text-align: justify;
@@ -292,66 +313,6 @@ Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asyn
     hyphens: auto;
     font-size: 0.9em;
     color: #ffffff;">
-    Mit der Zeit boten mir verschiedene technische Projekte in Bereichen wie Öl, Gas und Petrochemie die Möglichkeit, Anpassungsfähigkeit, Teamarbeit und den Fokus auf die Lieferung robuster Lösungen zu entwickeln. Ich erkannte zunehmend, dass wahre technische Kompetenz nicht nur im Sammeln von Fähigkeiten liegt, sondern auch im Vorhersehen potenzieller Fehler und der Disziplin, diese zu vermeiden.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Ein späterer Übergang in die akademische Forschung im Ausland half mir, mein analytisches Denken zu schärfen und meine technische Perspektive zu erweitern. Doch was im Kern blieb, war das tief verwurzelte Interesse an systemorientierter Problemlösung und Ingenieurpraxis als Mittel zur Schaffung praktischer und nachhaltiger Lösungen.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Die Rückkehr in meine Heimat brachte weitere Klarheit: Die Kombination aus praktischer Erfahrung und einem erweiterten globalen Blick kann meine Arbeit noch präziser und kollaborativer gestalten. Besonders anziehend finde ich technisch anspruchsvolle Projekte, bei denen Präzision, Tiefe und Kreativität zusammenkommen.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Neben Ingenieurwissenschaften habe ich ein großes Interesse an menschlichen Systemen, strukturiertem Denken sowie an der zugrunde liegenden Schönheit der Mathematik und Logik entwickelt. Mein beruflicher Werdegang umfasst auch Erfahrungen außerhalb technischer Grenzen – diese spiegeln sich in meinen Kommunikations-, Organisations- und Lernfähigkeiten wider.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Der Wechsel zwischen verschiedenen Ländern und die damit verbundenen Herausforderungen verleihen meinem Werdegang eine zusätzliche Dimension. Diese Schichten meiner Erfahrung lassen sich nicht immer auf einer Seite darstellen, sie kommen jedoch oft in der Art und Weise zum Tragen, wie ich an die Arbeit herangehe.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 2em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Ich suche derzeit nach neuen Möglichkeiten als Automatisierungsingenieur – sei es in Festanstellung, projektbasierten Aufgaben oder technisch anspruchsvollen Umfeldern, die Wert auf Tiefe, Zuverlässigkeit und disziplinierte Ausführung legen. Zögern Sie nicht, mich zu kontaktieren.
+    Der Schwerpunkt meiner aktuellen Arbeit liegt auf projektbasierten Tätigkeiten, bei denen ich Elektrotechnik mit Programmierung und Mathematik verbinde, um komplexe Aufgaben zu modellieren, zu simulieren und effiziente Lösungen zu entwickeln.
   </p>
 </section>

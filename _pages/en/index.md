@@ -53,7 +53,7 @@ author_profile: true
     font-size: 0.9em;
     color: #f5f5f5;">   
 
-    A professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity. 
+    My professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity. 
   </p>
 </section>
     <!-- Work Experience Section -->

@@ -43,17 +43,42 @@ author_profile: true
     <main class="content">
 <section class="resume-section">
   <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">PROFESSIONAL SUMMARY</h2>
-  <p class="profile-text" style="text-align: justify; 
+<p style="text-align: justify;
     text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
-    color: #f5f5f5;">   
+    color: #ffffff;">
+    
+    
+My professional journey in electrical engineering began in 2000, combining vocational training, academic study and extensive hands-on experience in automation and control. Over the years I have taken part in diverse industrial projects and international research, which broadened my technical perspective and strengthened my analytical skills.
+  </p>
 
-    My professional journey in electrical engineering began in 2000, integrating academic study with practical experience in automation and control. Over the years, this foundation has been complemented by a growing focus on mathematics, programming, and modeling, particularly in addressing complex challenges in electrical engineering. Research activities have broadened technical perspectives and reinforced analytical skills, while hands-on work with electrical machines has strengthened practical expertise. Current interests are directed toward project-based engagements that bring together mathematics, software development, and engineering knowledge to explore and solve advanced problems with rigor and creativity. 
+  <p style="text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto 1em auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    This path has been complemented by a strong focus on mathematics, programming and modeling, which I actively use to address complex challenges in electrical engineering. Practical work with electrical machines has further reinforced my applied expertise.
+  </p>
+
+  <p style="text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto 1em auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    Currently I bring together electrical engineering, programming and mathematics to model, simulate and solve advanced problems. I am looking for project-based opportunities where I can apply this combination of skills to deliver reliable, innovative and impactful solutions.
   </p>
 </section>
     <!-- Work Experience Section -->
@@ -262,35 +287,4 @@ author_profile: true
       Developed a small-scale version of a multi-stage starting asynchronous motor as part of an associate degree project. The project involved precise winding and configuration of the stator terminals to enable staged startup and reduce inrush current, minimizing voltage drop during motor initiation. Although now largely replaced by modern drives, this classic technique was implemented with a hands-on understanding of motor theory, winding practices, and industrial startup challenges.
     </li>
   </ul>
-</section>
-
-<!-- About Me Section -->
-<!-- About Me Section -->
-<section class="resume-section">
-  <h2>ABOUT ME</h2>
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    
-  With a foundation in vocational training and extensive hands-on experience, I have built a career in electrical engineering focused on practical problem-solving, automation, and system-level analysis. My journey includes diverse industrial projects as well as international research experience, which broadened my technical perspective and analytical skills.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Currently, I combine expertise in electrical engineering with programming and mathematics to model, simulate, and solve complex challenges. I am seeking project-based opportunities where I can apply this blend of skills to deliver reliable and innovative solutions.
-  </p>
-
 </section>

@@ -43,18 +43,33 @@ author_profile: true
     <main class="content">
 <section class="resume-section">
   <h2 style="margin-bottom: 0.8em; font-size: 1.3em; color: #c3e50;">Berufliches Profil</h2>
-  <p class="profile-text" style="text-align: justify; 
-    text-align: justify;
+  <p style="text-align: justify;
+    text-justify: inter-word;
     line-height: 1.6;
-    margin: 0 auto;
+    margin: 0 auto 1em auto;
     max-width: 100%;
     word-spacing: -0.05em;
     hyphens: auto;
     font-size: 0.9em;
-    color: #f5f5f5;">
-
-    Seit 2000 habe ich meinen beruflichen Werdegang in der Elektrotechnik aufgebaut, mit einer soliden Grundlage aus Studium und praktischer Erfahrung in Automatisierung und Steuerung. Im Laufe der Jahre habe ich mein Profil durch vertiefte Kenntnisse in Mathematik, Programmierung und Modellierung erweitert, insbesondere bei der Lösung komplexer ingenieurtechnischer Fragestellungen. Forschungsaufenthalte haben meinen analytischen Blick geschärft und mir neue methodische Ansätze vermittelt, während die Arbeit mit elektrischen Maschinen meine praxisnahe Kompetenz gestärkt hat. Heute konzentriere ich mich auf projektbasierte Tätigkeiten, bei denen ich Mathematik, Softwareentwicklung und Ingenieurwissen kombiniere, um anspruchsvolle Aufgaben präzise und kreativ zu bewältigen.
+    color: #ffffff;">
+    
+    
+Seit dem Jahr 2000 habe ich meine berufliche Laufbahn in der Elektrotechnik aufgebaut – eine Kombination aus fundierter Ausbildung, akademischem Studium und praktischer Erfahrung in Automatisierung und Steuerung. Im Laufe der Jahre konnte ich sowohl in unterschiedlichen Industrieprojekten als auch in internationalen Forschungsumgebungen wertvolle Erfahrungen sammeln, die meine analytischen Fähigkeiten und mein technisches Verständnis nachhaltig geprägt haben.
   </p>
+
+  <p style="text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.6;
+    margin: 0 auto 1em auto;
+    max-width: 100%;
+    word-spacing: -0.05em;
+    hyphens: auto;
+    font-size: 0.9em;
+    color: #ffffff;">
+    Heute verbinde ich mein Wissen in Elektrotechnik mit Programmierung und Mathematik, um komplexe Systeme zu modellieren, zu simulieren und praxisgerechte Lösungen zu entwickeln. Besonders reizvoll sind für mich projektbasierte Aufgaben, bei denen ich innovative und zuverlässige Ergebnisse erzielen kann.
+  </p>
+
+
 </section>
     <!-- Work Experience Section -->
     <section class="resume-section">
@@ -285,34 +300,4 @@ Konzipierung eines unterbrechungssicheren Energie- und Steuerungssystems mit dop
 Entwicklung eines kleinmaßstäblichen Modells eines mehrstufig anlaufenden Asynchronmotors im Rahmen eines Ausbildungsprojekts. Durch gezielte Verschaltung der Statorwicklungen konnte der Einschaltstrom reduziert und Spannungseinbrüche minimiert werden – ein klassisches Verfahren, das praktisch umgesetzt wurde.
     </li>
   </ul>
-</section>
-
-<!-- About Me Section -->
-<section class="resume-section">
-  <h2>Über mich</h2>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    
-    Ich verfüge über eine fundierte Ausbildung und langjährige Erfahrung in der Elektrotechnik, insbesondere in Automatisierung, Steuerung und Systemanalyse. Neben Industrieprojekten habe ich auch internationale Forschungserfahrungen gesammelt, die meine analytischen und technischen Fähigkeiten vertieft haben.
-  </p>
-
-  <p style="text-align: justify;
-    text-justify: inter-word;
-    line-height: 1.6;
-    margin: 0 auto 1em auto;
-    max-width: 100%;
-    word-spacing: -0.05em;
-    hyphens: auto;
-    font-size: 0.9em;
-    color: #ffffff;">
-    Der Schwerpunkt meiner aktuellen Arbeit liegt auf projektbasierten Tätigkeiten, bei denen ich Elektrotechnik mit Programmierung und Mathematik verbinde, um komplexe Aufgaben zu modellieren, zu simulieren und effiziente Lösungen zu entwickeln.
-  </p>
 </section>
